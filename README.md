@@ -1,6 +1,8 @@
 # SMBBB
 **_SMB Baddies Blocklist: a DNS blocklist of all the phishing and malware links one small company gets_**
 
+Direct link: [https://raw.githubusercontent.com/oo12/SMBBB/master/blocklist.txt](https://raw.githubusercontent.com/oo12/SMBBB/master/blocklist.txt)
+
 We get so many phishing and malware links at work. Mostly targeting Microsoft 365. I‘ve developed an extensive set of rules to (mostly) intercept them before they’re delivered, but still. Partly to relieve my personal frustration with this and partly in the hope that it’ll be useful to some other exasperated IT person, I’m posting the list here. At present I’m updating it daily. Feed it into your filtering DNS and flush these turds before your users click.
 
 I use this list with [Pi-hole](https://pi-hole.net), which is totally solid for enterprise use by the way. At least running on a proper VM and for around 100 users, nary a problem.
