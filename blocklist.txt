@@ -2,6 +2,7 @@
 
 bar1.ga
 bidnews.banaelectric.ga
+loadparis.casa
 friendly-pouncing-gastonia.glitch.me
 suave-false-house.glitch.me
 boundless-panoramic-roof.glitch.me
@@ -67,6 +68,7 @@ assm-judo.fr
 jrhp.fr
 lapressechezvous.fr
 lwov03n19b.trafficmanager.net
+southwestlogistics.net
 jibss.azurewebsites.net
 iomnews.net
 vissanti.pt
