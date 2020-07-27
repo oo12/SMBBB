@@ -12,8 +12,7 @@ I use this list with [Pi-hole](https://pi-hole.net), which is totally solid for 
 if you actually use them. They're legitimate sites, just get abused like everything else.
 
 * `rebrand.ly` — Another URL shortner.
-* `www.canva.com` — Hosts phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
-* `www.notion.so` — Really popular for phishing lures.
+* `www.notion.so` — Really popular for phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
 
 ## Consider blocking
 
