@@ -17,6 +17,7 @@ Take a look through the rest of this document and decide what’s right for you.
 
 if you actually use them. They’re legitimate sites, just get abused like everything else.
 
+* `firebasestorage.googleapis.com` — Google cloud storage. Used frequently for hosting phishing sites and for us, blocking it has had little negative effect.
 * `rebrand.ly` — Another URL shortner.
 * `www.notion.so` — Popular for what I call phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
 * `readymag.com` — Also used to host phishing lures.
