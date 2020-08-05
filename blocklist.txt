@@ -52,6 +52,7 @@ www.teleteknoloji.com
 app.choiphui.com
 mail.pollinationcapital.com
 sequoiacouncil.com
+anitaluminyum.com
 acaedesign.com
 kasalawn.com
 kiudjnio.com
@@ -104,6 +105,7 @@ jrhp.fr
 lapressechezvous.fr
 fili.es
 mobiletech.net
+karzo.net
 lwov03n19b.trafficmanager.net
 southwestlogistics.net
 jibss.azurewebsites.net
