@@ -20,13 +20,18 @@ if you actually use them. They’re legitimate sites, just get abused like every
 * `firebasestorage.googleapis.com` — Google cloud storage. Used frequently for hosting phishing sites and for us, blocking it has had little negative effect.
 * `rebrand.ly` — Another URL shortner.
 * `www.notion.so` — Popular for what I call phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
-* `readymag.com` — Also used to host phishing lures.
-* `www.stackfield.com` — same
+* `view.genial.ly` — same
 
 ### Consider blocking
 
 * `www.canva.com` — Online design site. There’s apparently no way to send in an abuse report without creating an account first. Zero response on Twitter. A couple people at the office actually use this mess, so I don’t block it. But I *do* quarantine any incoming email with a canva link.
 * `1drv.ms` — Short link for OneDrive files. Don’t know about you, but around here they’re more likely nothin’ good.
+* `onedrive.live.com` — Same. Though it’s probably better to quarantine all incoming emails with these links, then release the few that are legit.
+
+These are more document design/sharing sites that can be abused for phishing. In contrast to the ones above, I’ve only seen them used once, and the folks at the site responded promptly to the abuse report, so for the moment they have a favorable value to risk ratio.
+
+* `readymag.com`
+* `www.stackfield.com`
 
 ### Regular Expressions
 
@@ -40,11 +45,13 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.carrd\.co$` — Online design site. Unlike Canva, they’re responsive to abuse reports.
 * `\.glitch\.me$` — Programming project hosting. Also good about dealing with phishers.
 * `\.only2clicks\.com$` — Some junk you don’t need.
+* `\.oragondesignstudio\.com$` — Redirects to an “Outlook Web App” phishing page on the appspot.com domain below.
 * `-dot-gl494903049\.wl\.r\.appspot\.com$` — Hosts phishing sites with unique subdomains. I wish Google—and Microsoft—were better about shutting this nonsense down.
+* `\.et\.r\.appspot\.com$` — cloud hosting
+* `\.azurewebsites\.com$` — same
 
 #### One Offs
 
 These came in for a bunch of users at once, with a unique subdomain for each email. A “one day and done” thing; haven't seen them again.
 
 * `\.salamapetrochemical\.com$`
-* `\.oragondesignstudio\.com$`
