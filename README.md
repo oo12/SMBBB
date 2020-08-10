@@ -48,6 +48,7 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.oragondesignstudio\.com$` — Redirects to an “Outlook Web App” phishing page on the appspot.com domain below.
 * `-dot-gl494903049\.wl\.r\.appspot\.com$` — Hosts phishing sites with unique subdomains. I wish Google—and Microsoft—were better about shutting this nonsense down.
 * `\.et\.r\.appspot\.com$` — cloud hosting
+* `\.web\.app$` — same
 * `\.azurewebsites\.com$` — same
 
 #### One Offs
