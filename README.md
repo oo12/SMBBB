@@ -42,6 +42,7 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.000webhostapp\.com$` – free web hosting. Abused as badly as you’d expect.
 * `\.3utilities\.com$` — free dynamic DNS.
 * `\.wze\.io$` — same
+* `\.gotdns\.ch$` — same
 * `\.carrd\.co$` — Online design site. Unlike Canva, they’re responsive to abuse reports.
 * `\.glitch\.me$` — Programming project hosting. Also good about dealing with phishers.
 * `\.only2clicks\.com$` — Some junk you don’t need.
