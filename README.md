@@ -56,4 +56,5 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 
 These came in for a bunch of users at once, with a unique subdomain for each email. A “one day and done” thing; haven't seen them again.
 
+* `(\.|^)vitaliciasrl\.com$`
 * `\.salamapetrochemical\.com$`
