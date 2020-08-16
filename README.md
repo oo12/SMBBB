@@ -21,6 +21,7 @@ if you actually use them. They’re legitimate sites, just get abused like every
 * `rebrand.ly` — Another URL shortner.
 * `www.notion.so` — Popular for what I call phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
 * `view.genial.ly` — same
+* `view.joomag.com` and `joom.ag` — same
 
 ### Consider blocking
 
@@ -43,6 +44,7 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.3utilities\.com$` — free dynamic DNS.
 * `\.wze\.io$` — same
 * `\.gotdns\.ch$` — same
+* `\.duckdns\.org$` — same
 * `\.carrd\.co$` — Online design site. Unlike Canva, they’re responsive to abuse reports.
 * `\.glitch\.me$` — Programming project hosting. Also good about dealing with phishers.
 * `\.only2clicks\.com$` — Some junk you don’t need.
