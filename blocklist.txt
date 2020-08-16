@@ -1,6 +1,5 @@
 # Collected since July 2020 | https://github.com/oo12/SMBBB
 
-betmagik.com/
 bar1.ga
 bidnews.banaelectric.ga
 loadparis.casa
@@ -73,6 +72,7 @@ gshsgshsg.com
 trannhukhanh.com
 www.teleteknoloji.com
 app.choiphui.com
+betmagik.com
 iraniansk.com
 mail.pollinationcapital.com
 sequoiacouncil.com
