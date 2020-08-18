@@ -19,6 +19,7 @@ if you actually use them. They’re legitimate sites, just get abused like every
 
 * `firebasestorage.googleapis.com` — Google cloud storage. Used frequently for hosting phishing sites and for us, blocking it has had little negative effect.
 * `rebrand.ly` — Another URL shortner.
+* `cutt.ly` — same
 * `www.notion.so` — Popular for what I call phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
 * `view.genial.ly` — same
 * `view.joomag.com` and `joom.ag` — same
@@ -41,10 +42,6 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.ga$`, `\.tk$`, `\.xyz$` — and really all the other TLDs your users are unlikely to legitimately need. Take a look at the blocklist for an idea of which ones we get. It’s sorted by domain so you can easily get an idea for frequency.
 * `-my\.sharepoint\.com$` — You’ll definitely have to whitelist the ones your users actually need, but having this default blocked has saved us so many times. Whenever one Microsoft 365 user gets phished, they’ll put a lure on OneNote, then blast out the link to all of their contacts. These can be convincing looking since they come from somebody you know and usually have their correct signature and all.
 * `\.000webhostapp\.com$` – free web hosting. Abused as badly as you’d expect.
-* `\.3utilities\.com$` — free dynamic DNS.
-* `\.wze\.io$` — same
-* `\.gotdns\.ch$` — same
-* `\.duckdns\.org$` — same
 * `\.carrd\.co$` — Online design site. Unlike Canva, they’re responsive to abuse reports.
 * `\.glitch\.me$` — Programming project hosting. Also good about dealing with phishers.
 * `\.only2clicks\.com$` — Some junk you don’t need.
@@ -53,6 +50,12 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `\.et\.r\.appspot\.com$` — cloud hosting
 * `\.web\.app$` — same
 * `\.azurewebsites\.com$` — same
+* `\.3utilities\.com$` — This and the remainder of the list are free dynamic DNS services.
+* `\.wze\.io$`
+* `\.gotdns\.ch$`
+* `\.duckdns\.org$`
+* `\.itsaol\.com$`
+* `\.x24hr\.com$`
 
 #### One Offs
 
