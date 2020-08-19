@@ -49,7 +49,7 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `-dot-gl494903049\.wl\.r\.appspot\.com$` — Hosts phishing sites with unique subdomains. I wish Google—and Microsoft—were better about shutting this nonsense down.
 * `\.et\.r\.appspot\.com$` — cloud hosting
 * `\.web\.app$` — same
-* `\.azurewebsites\.com$` — same
+* `^\w+\.azurewebsites\.net$` — same
 * `\.3utilities\.com$` — This and the remainder of the list are free dynamic DNS services.
 * `\.wze\.io$`
 * `\.gotdns\.ch$`
