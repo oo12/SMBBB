@@ -63,3 +63,4 @@ These came in for a bunch of users at once, with a unique subdomain for each ema
 
 * `(\.|^)vitaliciasrl\.com$`
 * `\.salamapetrochemical\.com$`
+* `\.carpicsediting\.com$`
