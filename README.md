@@ -50,13 +50,15 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `-dot-gl494903049\.wl\.r\.appspot\.com$` — Hosts phishing sites with unique subdomains. I wish Google—and Microsoft—were better about shutting this nonsense down.
 * `\.et\.r\.appspot\.com$` — cloud hosting
 * `\.web\.app$` — same
-* `^\w+\.azurewebsites\.net$` — same
+* `^\w+\.azurewebsites\.net$` — same. This will block a few legitimate sites though.
 * `\.3utilities\.com$` — This and the remainder of the list are free dynamic DNS services.
 * `\.wze\.io$`
 * `\.gotdns\.ch$`
 * `\.duckdns\.org$`
 * `\.itsaol\.com$`
 * `\.x24hr\.com$`
+* `\.(app|page)\.link$`
+* `\.carpicsediting\.com$`
 
 #### One Offs
 
@@ -64,4 +66,3 @@ These came in for a bunch of users at once, with a unique subdomain for each ema
 
 * `(\.|^)vitaliciasrl\.com$`
 * `\.salamapetrochemical\.com$`
-* `\.carpicsediting\.com$`
