@@ -43,6 +43,7 @@ Some things can only be blocked with regexes. Here are a few suggestions if you�
 * `-my\.sharepoint\.com$` — You’ll definitely have to whitelist the ones your users actually need, but having this default blocked has saved us so many times. Whenever one Microsoft 365 user gets phished, they’ll put a lure on OneNote, then blast out the link to all of their contacts. These can be convincing looking since they come from somebody you know and usually have their correct signature and all.
 * `\.000webhostapp\.com$` – free web hosting. Abused as badly as you’d expect.
 * `\.carrd\.co$` — Online design site. Unlike Canva, they’re responsive to abuse reports.
+* `\.dorik\.io$` — Free web site builder
 * `\.glitch\.me$` — Programming project hosting. Also good about dealing with phishers.
 * `\.only2clicks\.com$` — Some junk you don’t need.
 * `\.oragondesignstudio\.com$` — Redirects to an “Outlook Web App” phishing page on the appspot.com domain below.
