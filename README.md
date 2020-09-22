@@ -21,12 +21,12 @@ if you actually use them. They’re legitimate sites, just get abused like every
 * `rebrand.ly` — Another URL shortner.
 * `cutt.ly` — same
 * `www.notion.so` — Popular for what I call phishing lures. You know, a PDF or whatnot that says “You received secure file! Click to view” with a big button that takes you on to the actual phishing site.
+* `www.canva.com` — Same. Unlike most of the other similar sites here, there’s no way to send an abuse report.
 * `view.genial.ly` — same
 * `view.joomag.com` and `joom.ag` — same
 
 ### Consider blocking
 
-* `www.canva.com` — Online design site. There’s apparently no way to send in an abuse report without creating an account first. Zero response on Twitter. A couple people at the office actually use this mess, so I don’t block it. But I *do* quarantine any incoming email with a canva link.
 * `1drv.ms` — Short link for OneDrive files. Don’t know about you, but around here they’re more likely nothin’ good.
 * `onedrive.live.com` — Same. Though it’s probably better to quarantine all incoming emails with these links, then release the few that are legit.
 
