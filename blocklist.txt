@@ -38,6 +38,7 @@ chumexelectricalsng.ltd
 innovscra.cloud
 heldmailnotification.s3.us-east.cloud-object-storage.appdomain.cloud
 feeds.eu-gb.cf.appdomain.cloud
+skysguy.eu-gb.cf.appdomain.cloud
 joys.us-south.cf.appdomain.cloud
 restaurant1992.be
 ds-sachverstand.de
@@ -81,6 +82,7 @@ apps.support-account.jiianxi.cf
 support.verify-billing.jooanxi.cf
 straychew.cf
 joom.ag
+hcdc.com.ng
 jobitechobosi.com.ng
 ems-2020.org
 restorationtulsa.org
@@ -261,7 +263,6 @@ scatterenlarge.com
 algie.com
 missdanaashlie.com
 buhari.servecounterstrike.com
-sites.google.com
 www.uvitashuttle.com
 ezaeziemutaezle.com
 lcjgame.com
@@ -345,6 +346,7 @@ bialcohol.com
 couplesfightschool.com
 rcyschool.com
 www.haapl.com
+brwngirl.com
 www.jg08nt.vitaliciasrl.com
 cosmostradeintl.com
 podsnapfoul.com
@@ -353,6 +355,7 @@ filesss.pagexl.com
 mahham.com
 savetheboom.com
 owa.sifisom.com
+wassom.com
 microsoftoffiice365.typeform.com
 form.jotform.com
 submit.jotform.com
@@ -849,6 +852,7 @@ coco-fleur.net
 southwestlogistics.net
 9hxs99qsq90.azurewebsites.net
 engine001.azurewebsites.net
+ladaomoemapptieizofina.azurewebsites.net
 tytudsfsfd.azurewebsites.net
 00q0h8hqaph.azurewebsites.net
 s6fj4vwtci.azurewebsites.net
