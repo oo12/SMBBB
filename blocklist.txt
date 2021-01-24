@@ -32,6 +32,7 @@ tiny.cc
 batagorasyik.id
 narenstore.co.id
 hubungi.co.id
+bawaslu.wonosobokab.go.id
 docdro.id
 s.id
 bomba-service.md
@@ -651,6 +652,7 @@ visual.rankmediadev.com
 com12.sbpdev.com
 tony.blvrdev.com
 www.paperturn-view.com
+securewebmail.gearhostpreview.com
 upgrdmailw.com
 dodson-furbelow.com
 triconsnow.com
