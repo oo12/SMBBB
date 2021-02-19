@@ -113,6 +113,7 @@ wovis.org
 dhl4095itmch4.duckdns.org
 www.symphonychorus.org
 habitatsiliconvalley.org
+dentalgallery.org
 tame.com.sg
 db445883.gotdns.ch
 thinkblink.ph
@@ -1048,6 +1049,7 @@ hamersc.xyz
 ov.j4hm-i3lbad.xyz
 melvinawroad.xyz
 office.tracklnenfnbd.xyz
+zm.stdfer8-e89e.xyz
 kenyattaprairie.xyz
 service.crossoftonline.xyz
 bergemillsuite.xyz
