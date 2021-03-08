@@ -46,6 +46,7 @@ bomba-service.md
 chumexelectricalsng.ltd
 innovscra.cloud
 heldmailnotification.s3.us-east.cloud-object-storage.appdomain.cloud
+emailupdates4sys.s3.us-east.cloud-object-storage.appdomain.cloud
 feeds.eu-gb.cf.appdomain.cloud
 skysguy.eu-gb.cf.appdomain.cloud
 joys.us-south.cf.appdomain.cloud
@@ -886,6 +887,7 @@ genetixplus.ro
 www.notion.so
 esee.to
 www.e-sogi.ne.jp
+helloindotravel.jp
 www.cyuouzemi.co.jp
 fujips.co.jp
 k-kyoeiss.co.jp
