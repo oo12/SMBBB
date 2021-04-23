@@ -52,6 +52,7 @@ chumexelectricalsng.ltd
 innovscra.cloud
 118m111c1120.mplan.cloud
 a8dq4.s3.eu-de.cloud-object-storage.appdomain.cloud
+a1e4804174619dfa1e4804174619df7371e0d7371e0c5163d.s3.eu-de.cloud-object-storage.appdomain.cloud
 pendingdelivery77m6g9.s3.us-south.cloud-object-storage.appdomain.cloud
 heldmailnotification.s3.us-east.cloud-object-storage.appdomain.cloud
 emailupdates4sys.s3.us-east.cloud-object-storage.appdomain.cloud
@@ -664,6 +665,7 @@ zerohungerapp.com
 asclepiadaceous-cra.000webhostapp.com
 setaceous-table.000webhostapp.com
 rathe-hoop.000webhostapp.com
+a92af00fc0f46590ec20c9738d.herokuapp.com
 ameizoxposaewe.herokuapp.com
 newtrp.com
 jiaxisp.com
@@ -970,6 +972,7 @@ office7332.weebly.com
 microsoftteamlogin365.weebly.com
 microsoftssecuredfiles365.weebly.com
 dfhaia.weebly.com
+msnwidge-hub.weebly.com
 microsoftonlineloginoffice.weebly.com
 microsoftecuredrive.weebly.com
 0ffixxe.weebly.com
@@ -1307,6 +1310,7 @@ burtonorganics.icu
 webfeeds.brookings.edu
 chsu.edu
 dembowska.eu
+iamn2830.atspace.eu
 zc1.maillist-manage.eu
 pedantas.eu
 garden-max.eu
