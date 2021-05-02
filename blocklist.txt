@@ -52,6 +52,7 @@ bomba-service.md
 chumexelectricalsng.ltd
 innovscra.cloud
 118m111c1120.mplan.cloud
+kamranbucket13.s3.eu-de.cloud-object-storage.appdomain.cloud
 a8dq4.s3.eu-de.cloud-object-storage.appdomain.cloud
 a1e4804174619dfa1e4804174619df7371e0d7371e0c5163d.s3.eu-de.cloud-object-storage.appdomain.cloud
 dsfewwe32e.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -1226,6 +1227,7 @@ s.cafebazaar.ir
 acbot.ir
 jxs37pe2.baplhl4u.easyfixgaragedoor.repair
 eytizmir.org.tr
+berdansanboya.com.tr
 elitdoor.com.tr
 tgmobile.es
 electrowifi.es
