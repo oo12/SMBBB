@@ -167,6 +167,7 @@ mypetstore.fedelta.store
 kjag.se
 smtptemp.site
 lp.vbt.site
+bannistereng.ucraft.site
 web97758.website
 odrive-file.website
 builder.makemoneywith.website
@@ -1658,6 +1659,7 @@ zmb3oclsjxk3wwbr76.z19.web.core.windows.net
 9871.blob.core.windows.net
 mkoe.blob.core.windows.net
 hhsdjf.blob.core.windows.net
+static.ucraft.net
 tartatiosbsaversv.net
 sba.yandex.net
 kamatititsamrevmaozxi-noisy-quokka-im.mybluemix.net
@@ -1811,6 +1813,7 @@ ichinalco.xyz
 sx.kil0f8n-67njo.xyz
 www.ytokilo.xyz
 j-op.xyz
+berlincoldwar.xyz
 ledgr.xyz
 nosouths.irsloads.xyz
 voicerms.xvbmouces.xyz
