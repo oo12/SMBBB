@@ -138,6 +138,7 @@ boundless-panoramic-roof.glitch.me
 stitch-steady-alibi.glitch.me
 energetic-almondine-handball.glitch.me
 periodic-ivy-allium.glitch.me
+adobe-online-login.glitch.me
 overjoyed-flannel-crown.glitch.me
 golden-cord-jasper.glitch.me
 octagonal-moored-hair.glitch.me
@@ -170,6 +171,7 @@ eduline.edu.pe
 uniq.edu.pe
 mypetstore.fedelta.store
 kjag.se
+odas.ubicuo.site
 smtptemp.site
 lp.vbt.site
 bannistereng.ucraft.site
@@ -290,6 +292,7 @@ upnation-cryp.network
 www.s-kontrakt.sk
 esx2934856.tk
 oumnga.tk
+almightybolivia.tk
 lookingweb.tk
 fromcompanyfaxi.tk
 fyuhj.tk
@@ -333,6 +336,7 @@ veraz.co.uk
 t.enews.mercedes-benz.co.uk
 uabk0dee.o.smilovic.cl
 mtd.cl
+ateneaseguridadchile.cl
 marchaonline.cl
 cbsonido.cl
 mueblesescolaresclavero.cl
@@ -1756,6 +1760,7 @@ chsu.edu
 dembowska.eu
 iamn2830.atspace.eu
 zc1.maillist-manage.eu
+player.ebmstreaming.eu
 pedantas.eu
 garden-max.eu
 dunaujvarosihalaszcsarda.hu
@@ -1783,6 +1788,7 @@ saigonhomekitchenwvn.ru
 traverso.ru
 stroustrup.ru
 znatnymaster.ru
+tryffeltinor.ru
 skgdt.ru
 srv88779.ht-test.ru
 storonaprav.ru
