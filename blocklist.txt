@@ -365,6 +365,7 @@ pvasilakos.ml
 beanbrass.ml
 faxcompanycollect.ml
 apps.support-client.anxyantiw.ml
+dubbel16.nl
 www.spullenweb.nl
 cdn.jwwb.nl
 dev.go-internetmarketing.nl
@@ -1131,6 +1132,9 @@ www.043043mb.zionmedicalsolutions.com
 www.405405mb.zionmedicalsolutions.com
 www.000644645pm.zionmedicalsolutions.com
 www.ivrvirtualsolutions.com
+dynamic.ziftsolutions.com
+cisco.ziftsolutions.com
+analytics.ziftsolutions.com
 sites.ziftsolutions.com
 rhobositsolutions.com
 nm-1.centerdsolutlons.com
