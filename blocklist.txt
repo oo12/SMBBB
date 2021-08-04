@@ -78,6 +78,7 @@ bomba-service.md
 chumexelectricalsng.ltd
 innovscra.cloud
 118m111c1120.mplan.cloud
+mailbuk58.s3.jp-osa.cloud-object-storage.appdomain.cloud
 oauthbuk1078.s3.jp-osa.cloud-object-storage.appdomain.cloud
 ibmhh11.s3.au-syd.cloud-object-storage.appdomain.cloud
 ibmbucket198.s3.au-syd.cloud-object-storage.appdomain.cloud
@@ -125,6 +126,7 @@ cu-app.de
 led-professionals.de
 apps.mail-supports.life
 titko.wancdnapp.page
+kifot.wancdnapp.page
 ndcgp.ie
 qapla.co.ke
 gumskenya.co.ke
@@ -524,6 +526,7 @@ voicedvr-225.theworkpc.com
 theconsortiumesc.com
 iapamtc.com
 convencionipuc.com
+ebrahiminejad.com
 fgi.75b.myftpupload.com
 51k.c6c.myftpupload.com
 www.slservicebd.com
@@ -533,6 +536,7 @@ globeneed.com
 ng.rooferscertified.com
 www.970970.nl.mdmoinahmed.com
 office-docusecured.com
+sowlowed.com
 marutirashid.com
 temperfield.com
 apwebworld.com
@@ -677,6 +681,7 @@ scobberlotcherwye.com
 receiptgraze.com
 bu9i07f.com
 app.expired-support.asfjknasf.com
+viewer.joomag.com
 view.joomag.com
 hetalchirag.com
 etal-eg.com
@@ -959,6 +964,7 @@ j8w1xtid.firebaseapp.com
 uwqdj8sh.firebaseapp.com
 jasiereon.firebaseapp.com
 vapdelbnbapp.firebaseapp.com
+appdemotrailtes.firebaseapp.com
 natixos.firebaseapp.com
 growbase-linkupdat.firebaseapp.com
 xyvt6r6u.firebaseapp.com
@@ -1740,6 +1746,7 @@ norbert-kloiber.at
 svn.spears.at
 michalitz.at
 recp.mkt91.net
+razbibriga.net
 zip-media.net
 zallinawde.gb.net
 lesemondwde.gb.net
