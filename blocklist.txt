@@ -103,12 +103,14 @@ ostinbucket706p2.s3.us-south.cloud-object-storage.appdomain.cloud
 solon599.s3.us-south.cloud-object-storage.appdomain.cloud
 pendingdelivery77m6g9.s3.us-south.cloud-object-storage.appdomain.cloud
 jwtbuk307.s3.jp-tok.cloud-object-storage.appdomain.cloud
+juanchoonjun.s3.br-sao.cloud-object-storage.appdomain.cloud
 oauthbuk3053.s3.ca-tor.cloud-object-storage.appdomain.cloud
 wuln-hd-tioo.s3.ca-tor.cloud-object-storage.appdomain.cloud
 cloud-object-storage-kzkjoaonah-cos-static-web-hosting-hrb.s3.us-east.cloud-object-storage.appdomain.cloud
 cloud-object-storage-mk-cos-static-web-hosting-6kj.s3.us-east.cloud-object-storage.appdomain.cloud
 heldmailnotification.s3.us-east.cloud-object-storage.appdomain.cloud
 emailupdates4sys.s3.us-east.cloud-object-storage.appdomain.cloud
+cloud-object-storage-ns-cos-static-web-hosting-rqz.s3.us-east.cloud-object-storage.appdomain.cloud
 3367.eu-gb.cf.appdomain.cloud
 wetranecure-serversend-email-kdksowek-mostsecuredfile-download.eu-gb.cf.appdomain.cloud
 wetranecure-lastime.eu-gb.cf.appdomain.cloud
@@ -208,6 +210,7 @@ odas.ubicuo.site
 smtptemp.site
 lp.vbt.site
 bannistereng.ucraft.site
+turnkeyprojectservices.ucraft.site
 web97758.website
 ugrixo.d2h-j3j8.website
 odrive-file.website
@@ -692,6 +695,7 @@ instituitartetculture.com
 www.airtorture.com
 burofaxinformar.northeurope.cloudapp.azure.com
 servicos-brasil.southcentralus.cloudapp.azure.com
+businesstaxexpertise.com
 signlinkeinupdate.com
 rise.articulate.com
 vq4aufql.jsgu6ait.zww.longsate.com
@@ -1909,6 +1913,7 @@ bellarchitecture.net
 jerrysfurniture.net
 llc-05.webselfsite.net
 www.facilehosting.net
+facetrg.net
 www.scdbh.net
 mobiletech.net
 ibellsouth.net
