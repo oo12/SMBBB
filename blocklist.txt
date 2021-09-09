@@ -78,6 +78,7 @@ statistik.gresikkab.go.id
 inspektorat.bintankab.go.id
 bawaslu.wonosobokab.go.id
 dpkp.ciamiskab.go.id
+pa-pariaman.go.id
 sipantau.kemnaker.go.id
 docdro.id
 idei.or.id
@@ -322,6 +323,7 @@ uss.ac.th
 skw.ac.th
 leongjin.co.th
 xn--80aehzeeksdbf7i.xn--p1ai
+sbst1t3.wiki
 href.li
 ozkmn-puconci.si
 dreamfactapi.click
@@ -846,6 +848,7 @@ www.528528.hp.ntipak.com
 globalcompak.com
 alirizademirayak.com
 www.flipsnack.com
+outlook.bmetrack.com
 dx6lc.redirect2click.com
 deleclick.com
 upperlevelonevideogametruck.com
@@ -876,6 +879,7 @@ www.msoffice-portal.com
 www.acousticsremoval.com
 laurawaldvogel.com
 looksel.com
+oukltel.com
 muarspringseasonhotel.com
 inmediamail.com
 nt.embluemail.com
@@ -942,6 +946,7 @@ filedn.com
 litocen.com
 filteredscreen.com
 morrisncohen.com
+2.zlgl.ingilizkulturkecioren.com
 pwanhaven.com
 www.vsznxfkna-ksocik.hannagn.com
 ingram.mykampaign.com
@@ -1026,6 +1031,7 @@ contmpo.com
 7njanuary5.dunozmicro.com
 pentaedro.com
 document2.simplero.com
+i.c5yx.moonagro.com
 seedsagro.com
 www.k.690.ejournalunigoro.com
 hitmepro.com
@@ -1777,6 +1783,7 @@ merin-autheicla.web.app
 qhngdm4e.web.app
 ezgxwidg.web.app
 wecluihfrf-76tygh.web.app
+surepayrol.web.app
 dtx61d6m.web.app
 rikapcndbn.web.app
 ssmacldeser-wallbclo.web.app
