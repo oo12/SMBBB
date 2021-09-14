@@ -66,6 +66,7 @@ tiny.cc
 is.gd
 lsp.polinela.ac.id
 unisri.ac.id
+ipa.fkip.ulm.ac.id
 www.3o9o19r5qyigp1o2ywcwu.wisuda.ump.ac.id
 smk-isfi.sch.id
 mamaarifsukorejo.sch.id
