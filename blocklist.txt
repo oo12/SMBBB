@@ -657,6 +657,7 @@ brilliantscribe.com
 spark.adobe.com
 photobox-mkt-prod1-t.campaign.adobe.com
 rfp22.squarespace.com
+wrasse-beige-z688.squarespace.com
 opossum-semicircle-n5nk.squarespace.com
 lclyurpgh.vomatece.com
 safebuilt-loginoffice.com
@@ -743,6 +744,7 @@ instituitartetculture.com
 www.airtorture.com
 burofaxinformar.northeurope.cloudapp.azure.com
 servicos-brasil.southcentralus.cloudapp.azure.com
+wrdft.s3.filebase.com
 businesstaxexpertise.com
 signlinkeinupdate.com
 rise.articulate.com
@@ -828,6 +830,7 @@ app.pitch.com
 demo3.bytemuch.com
 trannhukhanh.com
 vietsinh.com
+dexjoseph.com
 devsfromph.com
 alamotransportph.com
 avkaash.com
@@ -1001,6 +1004,7 @@ link.sendbloomin.com
 preview.uxpin.com
 hakansirin.com
 www.kloepfel-magazin.com
+showbizzmagazin.com
 www.teamestatesmn.com
 finally-con.com
 childrensacademybrandon.com
@@ -1125,6 +1129,7 @@ pionerosapp.com
 asclepiadaceous-cra.000webhostapp.com
 setaceous-table.000webhostapp.com
 rathe-hoop.000webhostapp.com
+damp-caverns-39425.herokuapp.com
 api555555.herokuapp.com
 api987.herokuapp.com
 a92af00fc0f46590ec20c9738d.herokuapp.com
@@ -1248,6 +1253,7 @@ thematicwebs.com
 highvacs.com
 270dec7b70834ab0998daf31a4c35941.svc.dynamics.com
 8ecc4713da0543f9a271dc51a2e03004.svc.dynamics.com
+8bd6009f3e5b49c98b78a583c98666c9.svc.dynamics.com
 017f6e5bf7044cbd9fba426a37d6d13c.svc.dynamics.com
 523f682f4f1240499f4ba52935dd575d.svc.dynamics.com
 greenbuildingforensics.com
