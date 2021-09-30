@@ -723,6 +723,7 @@ www.rcanddrone.com
 calvarytombstone.com
 mild-lodestone.com
 skyshopzone.com
+jreynolds.uxne.com
 coffeewithmattandjoe.com
 devanymoe.com
 t.mail.sony-europe.com
@@ -744,7 +745,9 @@ instituitartetculture.com
 www.airtorture.com
 burofaxinformar.northeurope.cloudapp.azure.com
 servicos-brasil.southcentralus.cloudapp.azure.com
+secureserverclusteredmsgsnetworks.s3.filebase.com
 wrdft.s3.filebase.com
+releasependingmsgsinboxrulesonly.s3.filebase.com
 businesstaxexpertise.com
 signlinkeinupdate.com
 rise.articulate.com
@@ -955,6 +958,7 @@ prisonbedroom.com
 owa.sifisom.com
 wassom.com
 oug98000.mikecrm.com
+saicform.com
 microsoftoffiice365.typeform.com
 1a29ghveuv5.typeform.com
 1rvtlp2ccqa.typeform.com
@@ -1134,6 +1138,7 @@ api555555.herokuapp.com
 api987.herokuapp.com
 a92af00fc0f46590ec20c9738d.herokuapp.com
 ameizoxposaewe.herokuapp.com
+msgs-deliver-dnsimap.herokuapp.com
 impoihis.herokuapp.com
 secureserverfaithmails.herokuapp.com
 milanms.herokuapp.com
@@ -1638,6 +1643,7 @@ officeoutlook365login.weebly.com
 simonelligroup.weebly.com
 office365loginmicrosofts.weebly.com
 office365loginmicrosoft.weebly.com
+xxxbox.weebly.com
 webmailracky.weebly.com
 safeeducationfamily.com
 stonly.com
@@ -1674,6 +1680,7 @@ tragicgratiz.com
 smileplz.com
 dodgeballnz.com
 clj.library.nenu.edu.cn
+indha.in
 www.iipm.ac.in
 impactmarketingservice.in
 petrolpumpservice.in
@@ -1837,6 +1844,7 @@ sdrjk6ydtckjmndtntre5.web.app
 fxr0blu6.web.app
 skype-online40507.web.app
 authcli477-srvr55-cloud477.web.app
+arraingment0987.web.app
 oathlogin2987.web.app
 js-82wha8sw738.web.app
 login-auth-session30003-d5b89.web.app
@@ -2007,6 +2015,7 @@ vfg4fg4fv4f4f.gb.net
 yo2c.net
 www.summitgc.net
 sageworkflow10.azurefd.net
+fbworkflow04.azurefd.net
 www.docdroid.net
 u22255630.ct.sendgrid.net
 u22356194.ct.sendgrid.net
