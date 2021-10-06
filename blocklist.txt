@@ -97,6 +97,7 @@ mailbuk58.s3.jp-osa.cloud-object-storage.appdomain.cloud
 oauthbuk1078.s3.jp-osa.cloud-object-storage.appdomain.cloud
 ibmhh11.s3.au-syd.cloud-object-storage.appdomain.cloud
 ibmbucket198.s3.au-syd.cloud-object-storage.appdomain.cloud
+s3.eu-de.cloud-object-storage.appdomain.cloud
 kamranbucket13.s3.eu-de.cloud-object-storage.appdomain.cloud
 malakaibucket54.s3.eu-de.cloud-object-storage.appdomain.cloud
 a8dq4.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -182,6 +183,7 @@ overjoyed-flannel-crown.glitch.me
 golden-cord-jasper.glitch.me
 octagonal-moored-hair.glitch.me
 efilesr.glitch.me
+nova-rogue-pegasus.glitch.me
 wax-lime-shift.glitch.me
 cherry-scalloped-wrist.glitch.me
 piquant-foregoing-sprout.glitch.me
@@ -203,6 +205,7 @@ top.voicegate.online
 bestbite.online
 343808de9ef64259f07528a537459a07.xyspnobzhsvekuacnmfgpdvgb.secureinv0icing.online
 b0y-8j.online
+user.office365verification.online
 coolaircondition.online
 server.livevoip.online
 microsoft.365teamsupport.online
@@ -496,6 +499,7 @@ arawan45.com
 online.pubhtml5.com
 abcv5.com
 trackmyparcel06.com
+goldentrades247.com
 logonservices-e77.com
 clintus77.com
 laijie88.com
@@ -586,6 +590,7 @@ dropshipsplaza.com
 eauctioneers.dm4b.com
 luchifab.com
 ajax.googleapis.luchifab.com
+v.x1n.kodlab.com
 chronolab.com
 63a27320.proxyi.ssaeb.com
 clairvoyantweb.com
@@ -957,6 +962,7 @@ cps-telecom.com
 distillcom.com
 savetheboom.com
 prisonbedroom.com
+daadoylearanstrom.com
 owa.sifisom.com
 wassom.com
 oug98000.mikecrm.com
@@ -998,6 +1004,7 @@ acaedesign.com
 officeconceptdesign.com
 qri970bargain.com
 theknockexplain.com
+sharepoint-secure-online.preview-domain.com
 easternzone-tech.preview-domain.com
 0auth-officeloginemail-us.preview-domain.com
 seethefountain.com
@@ -1062,6 +1069,7 @@ kiudjnio.com
 codesterio.com
 invbdollc.xtensio.com
 op3d00r.xtensio.com
+3.c.nitio.com
 smartcityjo.com
 t8.al.alerteimmo.com
 onedrive.barunatrmo.com
@@ -1153,6 +1161,7 @@ jiaxisp.com
 ekosp.com
 ses-smtp.com
 gddy-smtp.com
+casmtp.com
 bomohsmtp.com
 trasactionsmtp.com
 canonsmtp.com
@@ -1781,6 +1790,7 @@ jstarchitects.dorik.io
 secured.gitbook.io
 298b96579049.ngrok.io
 jtuzd.rdtk.io
+share.chamaileon.io
 ipinfo.io
 sos-de-fra-1.exo.io
 faxmessages.additor.io
@@ -2232,6 +2242,7 @@ successedge.com.my
 citrex.com.my
 eimage.o2o.my
 pbmjx.youroffer.company
+giplait.dz
 wisteria3.asto-system.biz
 kingofkoicarp.hercobuly.biz
 www.amoy.biz
