@@ -221,6 +221,7 @@ helpdomain-netorgin.online
 user.office365verification.online
 coolaircondition.online
 server.livevoip.online
+server.voipservicesystems.online
 justin-comms.online
 microsoft.365teamsupport.online
 webmail-xyz.online
@@ -288,6 +289,7 @@ www.dislipemia.org
 zaitoona.org
 restorationtulsa.org
 nfuvsu.womenaspirants-kenya.org
+www.ismyrotaryclub.org
 fish-cmc.org
 www.cnpnc.org
 digitalmediasync.org
@@ -849,6 +851,7 @@ whitewingsbaking.com
 www.ramabreaking.com
 servedby.flashtalking.com
 pasargaddrilling.com
+camel.headfarming.com
 lastminutenursing.com
 medicalcaremarketing.com
 www.453453.carpicsediting.com
@@ -1310,6 +1313,7 @@ xyzlvaqq.w.bluesandpinkstour.com
 studyabroadconsultantsnagpur.com
 cateringzorbas.com
 blog.casinolasvegas.com
+nauexperiencias.com
 designclaudiadias.com
 api.cav-visas.com
 view.publitas.com
@@ -1670,6 +1674,8 @@ triconsnow.com
 findquickresultsnow.com
 www.donnapartow.com
 weblaunch.blifax.com
+asxggxsmbchargjaazfcj.aavmax.com
+ocqwhosgfcharcljjwvnz.aavmax.com
 dervuax.com
 conecta2mix.com
 egymatrix.com
@@ -2074,6 +2080,7 @@ s.cafebazaar.ir
 bgnet.ir
 acbot.ir
 jxs37pe2.baplhl4u.easyfixgaragedoor.repair
+openlink.bclib.schmc.ac.kr
 eytizmir.org.tr
 berdansanboya.com.tr
 onurdanismanlik.com.tr
@@ -2184,6 +2191,7 @@ zmb3oclsjxk3wwbr76.z19.web.core.windows.net
 mkoe.blob.core.windows.net
 hhsdjf.blob.core.windows.net
 static.ucraft.net
+d3fw5vlhllyvee.cloudfront.net
 tartatiosbsaversv.net
 www.molloylaw.net
 sba.yandex.net
@@ -2283,6 +2291,7 @@ skgdt.ru
 florapoint.ru
 srv88779.ht-test.ru
 storonaprav.ru
+verya345wsdlv.ru
 forms.yandex.ru
 wag.cv
 samallen.dev
