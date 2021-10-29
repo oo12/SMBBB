@@ -1,6 +1,7 @@
 # Collected since July 2020 | https://github.com/oo12/SMBBB
 
 madixmedia.ca
+autodiscover.yrdsb.ca
 beautyppe.ca
 leadigniter.ca
 a1truckrepair.ca
@@ -494,6 +495,7 @@ www.hetgroenelicht.nl
 www.salieit.nl
 cardetailz.nl
 czyszczeniesrebra.pl
+ddcgroup.pl
 www.avangard-ogrody.pl
 wilkiniedzwiedz.pl
 files.fm
@@ -815,6 +817,7 @@ ggg-stl.jimdosite.com
 efxl.jimdosite.com
 efaxmlx.zyrosite.com
 thestoremanagement.wixsite.com
+acpresearchsurvey.wixsite.com
 mjjbd349gd.larksuite.com
 pxjne08hgg.larksuite.com
 ryegzlohwq.larksuite.com
@@ -1248,6 +1251,8 @@ dvsolutionsar.com
 hotlookvar.com
 www.birdwatchingtourscr.com
 sf-assets.securevdr.com
+glendalechamber.com
+www.glendalechamber.com
 www.4019112526.eastputnambarber.com
 form.123formbuilder.com
 cdn4.iconfinder.com
@@ -1322,6 +1327,7 @@ view.publitas.com
 guardianrutas.com
 thematicwebs.com
 highvacs.com
+findics.com
 270dec7b70834ab0998daf31a4c35941.svc.dynamics.com
 8ecc4713da0543f9a271dc51a2e03004.svc.dynamics.com
 8bd6009f3e5b49c98b78a583c98666c9.svc.dynamics.com
@@ -1768,6 +1774,7 @@ smileplz.com
 dodgeballnz.com
 www.co.jp.xhhxnq.cn
 clj.library.nenu.edu.cn
+onedonpoints24.in
 indha.in
 www.iipm.ac.in
 impactmarketingservice.in
@@ -1893,6 +1900,7 @@ lademira.ro
 9549.medasfood.ro
 1361.atvangarde.ro
 2007.atvangarde.ro
+parliament-hotel.ro
 buildingstefan.ro
 mag-audio.ro
 sferadecor.ro
