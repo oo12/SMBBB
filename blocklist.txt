@@ -242,6 +242,7 @@ b0y-8j.online
 l-durk.online
 p-k1l.online
 mp.ding-voicedial.online
+microsoft.voipstudioteam.online
 helpdomain-netorgin.online
 user.office365verification.online
 server.systemcommunication.online
@@ -585,6 +586,7 @@ breezeful-sydneian-threnodes.s3.us-west-002.backblazeb2.com
 impenetrable-nursemaid-sugariest.s3.us-west-002.backblazeb2.com
 f002.backblazeb2.com
 almohad-conjurison-zoophobia.s3.us-west-004.backblazeb2.com
+counterguerrilla-soce-witchhood.s3.us-west-004.backblazeb2.com
 difco2.com
 nwopgomnoaknoja.docshare83383.com
 5hv0l.r.ag.d.sendibm3.com
@@ -1002,6 +1004,7 @@ alamotransportph.com
 artem4x4sh.com
 avkaash.com
 anika1312genesh.com
+aprilnarramoregenesh.com
 ch10th.com
 marietta-galocksmith.com
 mcrighttsmith.com
@@ -1366,6 +1369,7 @@ msgs-deliver-dnsimap.herokuapp.com
 impoihis.herokuapp.com
 secureserverfaithmails.herokuapp.com
 milanms.herokuapp.com
+main.dql4xibddkyp6.amplifyapp.com
 webmailstoragesrvr4567-supportdev.codeanyapp.com
 innovativeerp.com
 newtrp.com
@@ -2308,6 +2312,8 @@ vidramaq.com.br
 probemdoser.com.br
 a.adrenalinamodas.com.br
 b.adrenalinamodas.com.br
+www.486124554486124554-486124554.families.com.br
+www.122867629122867629-122867629.families.com.br
 lonnichicotes.com.br
 assessorialeomartins.com.br
 villacanyons.com.br
@@ -2373,6 +2379,7 @@ sorvss.org.rs
 verify.apps-support.press
 filehost.press
 yo-ga.us
+urlweb.us
 poeticsmelll.us
 ervoicveripln.us
 fastlogistics.us
@@ -2421,6 +2428,7 @@ malarki.net
 sibumi.net
 googleads.g.doubleclick.net
 tbtiglobal.net
+t.apemail.net
 cnd11.smsmail.net
 nucmaeirl.net
 tyronelam.net
