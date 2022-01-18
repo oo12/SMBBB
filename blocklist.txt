@@ -262,6 +262,7 @@ server.voipservicesystems.online
 justin-comms.online
 microsoft.voipscommunications.online
 microsoft.365teamsupport.online
+sovsuccessioncrest.online
 k-o1w.online
 webmail-xyz.online
 cache.waptrick.one
@@ -278,6 +279,7 @@ intranet.unsm.edu.pe
 uniq.edu.pe
 mypetstore.fedelta.store
 gadget-heaven.store
+shaveesy.store
 kjag.se
 hf83rb7.date
 document-563677.square.site
@@ -378,6 +380,7 @@ dakarwomensgroup.org
 statuswar.org
 trainupaleader.org
 3051.uthmder.org
+recapper.org
 hawthornecenter.org
 mahakalmandir.org
 troubledminds.org
@@ -1422,8 +1425,10 @@ capitalnetgroup.com
 knowmanagementgroup.com
 theryanlawgroup.com
 dumexgroup.com
+www.dumexgroup.com
 ttsqroup.com
 t-step-growup.com
+avkvogc.sqwmwp.com
 app.salesforceiq.com
 infosehatq.com
 sapmazlarrentacar.com
@@ -1573,6 +1578,7 @@ hampton-davies.com
 www.4014732227.oahucakes.com
 prosporttimes.com
 llc.youngonlines.com
+ugcomunicaciones.com
 vecap-capacitaciones.com
 urethanepumpiones.com
 sn.frielfortunes.com
@@ -2241,6 +2247,7 @@ ssmacldeser-wallbclo.web.app
 dukitiso.web.app
 jaxmiyifup.web.app
 xypfklywnq.web.app
+bxtgnvfvtq.web.app
 updatedomainsagentserver.web.app
 tlpanicagr.web.app
 verifyingcorr.web.app
@@ -2391,6 +2398,7 @@ berdansanboya.com.tr
 onurdanismanlik.com.tr
 f4j.uwzq.bowergsm.com.tr
 su4.wihr.bowergsm.com.tr
+oi8.bdgu.bowergsm.com.tr
 elitdoor.com.tr
 kortrmkq4y4759.tuyasmart.com.tr
 fym92BR8Ug5762.nestinvest.com.tr
@@ -2644,6 +2652,7 @@ divine-dew-b52c.ehab737.workers.dev
 hh.20rkmxt5955579.workers.dev
 production.microsoftpassword-update0009-hfhfhf-draspy-rice-57e5.s-hiestand.workers.dev
 iso.wec-mate.workers.dev
+geoucwbrvr.belinda-wilton.workers.dev
 8uihkjn.q6gcclzocr.workers.dev
 production.passtruth-truth-5df4.pass-morn-reset-todaybringsjoy.workers.dev
 9ikjk.fw7p6i3kiz.workers.dev
