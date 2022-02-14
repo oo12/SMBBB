@@ -2362,6 +2362,7 @@ apps.information-verify.support.jaxuan.gq
 feraters.gq
 apps.support-client.hooxamw.gq
 sygowinkx.gq
+baauz.gq
 caroquiroga.com.ar
 sociosmutualdepresidencia.com.ar
 ultrafarma.com.ar
@@ -2616,6 +2617,7 @@ zmb3oclsjxk3wwbr76.z19.web.core.windows.net
 mkoe.blob.core.windows.net
 hhsdjf.blob.core.windows.net
 documentretailthemcgroup.blob.core.windows.net
+secure01-redirect.net
 static.ucraft.net
 d3fw5vlhllyvee.cloudfront.net
 tartatiosbsaversv.net
