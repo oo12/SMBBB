@@ -267,6 +267,7 @@ coolaircondition.online
 server.livevoip.online
 margot-qatar.online
 microsoft.mpstudioserver.online
+vm.voicetones.online
 server.voipservicesystems.online
 justin-comms.online
 microsoft.voipscommunications.online
@@ -417,6 +418,7 @@ www.aboutbraininjury.org
 tame.com.sg
 epc.cappssolutions.com.sg
 www.metallica.ch
+fundament-jugend.ch
 db445883.gotdns.ch
 mdgroupswiss.ch
 ledi-iptv.ch
@@ -685,6 +687,7 @@ pinkdoormedia.com
 newrecordsmedia.com
 fabioindia.com
 terracottamafia.com
+blog.weiwanjia.com
 wearepaulownia.com
 amadermathbaria.com
 lamattapizzeria.com
@@ -899,6 +902,7 @@ meet.google.com
 script.google.com
 feedproxy.google.com
 wgoogle.com
+swastikmobile.com
 glowchile.com
 www.lonjanortevalle.com
 busybeepeople.com
@@ -928,6 +932,7 @@ skyshopzone.com
 jreynolds.uxne.com
 coffeewithmattandjoe.com
 devanymoe.com
+www.flingswipe.com
 t.mail.sony-europe.com
 abaad-re.com
 smseldercare.com
