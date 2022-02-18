@@ -841,6 +841,7 @@ docwebserve.yakubfashionltd.com
 bestsecurityltd.com
 objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
+objectstorage.eu-frankfurt-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
 na.eventscloud.com
 www.cpfitnessuae.com
@@ -1017,6 +1018,7 @@ app.emaze.com
 receiptgraze.com
 wengeze.com
 bu9i07f.com
+s.kakamf.com
 app.expired-support.asfjknasf.com
 viewer.joomag.com
 view.joomag.com
@@ -1087,6 +1089,7 @@ foodiesnhealth.com
 radiantshealth.com
 xsmtp0auth.com
 rohimahjauh.com
+lapalmadubai.com
 gojusthai.com
 albusalbi.com
 chappedbambi.com
@@ -1439,6 +1442,7 @@ godadyus.firebaseapp.com
 growbase-linkupdat.firebaseapp.com
 xyvt6r6u.firebaseapp.com
 vipcndvvappdev.firebaseapp.com
+anyrealex.firebaseapp.com
 jqn8dq2z.firebaseapp.com
 speeedie24hs-documents365.hostingerapp.com
 criestfargo-signprosecdoc.hostingerapp.com
