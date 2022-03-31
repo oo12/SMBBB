@@ -2359,6 +2359,7 @@ suvvo.codesandbox.io
 cwyws.codesandbox.io
 qii2t.codesandbox.io
 8iu7w.codesandbox.io
+wafaanawazz1.editorx.io
 christykeith9j.editorx.io
 adrninpylenagel.editorx.io
 o245711.ingest.sentry.io
@@ -2649,6 +2650,7 @@ verify.apps-support.press
 filehost.press
 yo-ga.us
 urlweb.us
+chubbyrental.us
 poeticsmelll.us
 ervoicveripln.us
 keravittapro.us
