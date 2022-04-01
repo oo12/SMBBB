@@ -45,6 +45,7 @@ hitex.ma
 loadparis.casa
 liveproduction.com.ua
 armenia.cn.ua
+k-print.kharkov.ua
 digicloud.co.za
 etrade.co.za
 junkie.co.za
@@ -114,6 +115,7 @@ sipantau.kemnaker.go.id
 docdro.id
 idei.or.id
 s.id
+home.s.id
 formare.usarb.md
 bomba-service.md
 chumexelectricalsng.ltd
@@ -144,6 +146,7 @@ oauthbuk3053.s3.ca-tor.cloud-object-storage.appdomain.cloud
 wuln-hd-tioo.s3.ca-tor.cloud-object-storage.appdomain.cloud
 cloud-object-storage-kzkjoaonah-cos-static-web-hosting-hrb.s3.us-east.cloud-object-storage.appdomain.cloud
 cloud-object-storage-mk-cos-static-web-hosting-6kj.s3.us-east.cloud-object-storage.appdomain.cloud
+resulll.s3.us-east.cloud-object-storage.appdomain.cloud
 heldmailnotification.s3.us-east.cloud-object-storage.appdomain.cloud
 emailupdates4sys.s3.us-east.cloud-object-storage.appdomain.cloud
 cloud-object-storage-ns-cos-static-web-hosting-rqz.s3.us-east.cloud-object-storage.appdomain.cloud
@@ -472,6 +475,7 @@ tracking.specto.si
 dreamfactapi.click
 cntr.click
 jmoptik.dk
+friersflyvendetallerken.dk
 qe2.dyndns.dk
 kasnd.dyndns.dk
 vqwdwqd.dyndns.dk
@@ -793,6 +797,7 @@ chronolab.com
 metalsnewshubb.com
 63a27320.proxyi.ssaeb.com
 clairvoyantweb.com
+greenwayweb.com
 www.grupoabyeb.com
 befinewithb.com
 amerijetinternational.lt.acemlnb.com
@@ -832,6 +837,7 @@ eafoodcnc.com
 uhrrinc.com
 jcsrinc.com
 247hotelshampton.lt.acemlnc.com
+app.pandadoc.com
 gameseapc.com
 s.uqa.onlinedestekpc.com
 voicedvr-225.theworkpc.com
@@ -1523,6 +1529,7 @@ pionerosapp.com
 asclepiadaceous-cra.000webhostapp.com
 setaceous-table.000webhostapp.com
 rathe-hoop.000webhostapp.com
+dendroidal-attempt.000webhostapp.com
 damp-caverns-39425.herokuapp.com
 api555555.herokuapp.com
 api987.herokuapp.com
@@ -1783,6 +1790,7 @@ twinsoils.com
 spsmartschools.com
 freemobiletools.com
 www.formtools.com
+talk-systems.com
 jnms-hrms.com
 app.mightyforms.com
 yhaluminums.com
@@ -2278,6 +2286,7 @@ ahsteam.co
 manvim.co
 granjaencasa.com.co
 jcd.com.co
+sterix.com.co
 rucom.co
 5r0dkkfr.paperform.co
 microsoftcheckn.co
@@ -2703,9 +2712,11 @@ mobiletech.net
 ibellsouth.net
 qkwrriv.cluster030.hosting.ovh.net
 tivici.net
+pv7.jcii.net
 malarki.net
 a4f9e2ea39.nxcli.net
 sibumi.net
+adclick.g.doubleclick.net
 googleads.g.doubleclick.net
 tbtiglobal.net
 amazon.sellerscentral.net
@@ -3085,6 +3096,7 @@ nonamess.icuvoicex.xyz
 serv-voip.easyserv-voicmx.xyz
 monsvm.dgomesx.xyz
 geraldineparkway.xyz
+gatreuiy.xyz
 upw4z.xyz
 eyetiez.xyz
 churchpointla.buzz
