@@ -1341,6 +1341,7 @@ shrinkkaren.com
 pwanhaven.com
 www.vsznxfkna-ksocik.hannagn.com
 ingram.mykampaign.com
+gossipwebdesign.com
 acaedesign.com
 officeconceptdesign.com
 induxdesign.com
@@ -1683,6 +1684,7 @@ view.publitas.com
 guardianrutas.com
 thematicwebs.com
 www.kcarjobs.com
+assethubs.com
 morgan-cs.com
 highvacs.com
 findics.com
@@ -2689,6 +2691,7 @@ fbworkflow04.azurefd.net
 xeroworkflow04.azurefd.net
 www.docdroid.net
 u22255630.ct.sendgrid.net
+u9333340.ct.sendgrid.net
 u25369751.ct.sendgrid.net
 u22356194.ct.sendgrid.net
 u25154415.ct.sendgrid.net
@@ -2737,6 +2740,7 @@ filebin.net
 kevido.net
 karzo.net
 pwangroup.net
+t.myvisualiq.net
 lwov03n19b.trafficmanager.net
 emiratespost-ae.umbler.net
 whoer.net
