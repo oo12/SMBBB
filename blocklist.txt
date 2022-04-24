@@ -1064,6 +1064,7 @@ secureserverclusteredmsgsnetworks.s3.filebase.com
 wrdft.s3.filebase.com
 releasependingmsgsinboxrulesonly.s3.filebase.com
 secure00-id7362-chase.com
+secure00-id5463-chase.com
 ladiniprise.com
 businesstaxexpertise.com
 app.getresponse.com
@@ -1481,6 +1482,7 @@ andestvco.com
 mail.acsendo.com
 tonscoindo.com
 ceritahariini.yokkitanyanyilaguindo.com
+www.669749266669749266-669749266.anleo.com
 ccsellschicago.com
 app.evalandgo.com
 ecofiltroform.triciclogo.com
@@ -2328,6 +2330,7 @@ new.solicitous.in
 dev.papus.in
 vksharemarket.in
 greedyparrot.in
+getcert.in
 gmaax.in
 panaceaacademy.in
 payjuz.in
