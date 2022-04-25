@@ -304,6 +304,7 @@ vm.voicetones.online
 server.voipservicesystems.online
 justin-comms.online
 microsoft.voipscommunications.online
+fcth-connect.online
 microsoft.365teamsupport.online
 sovsuccessioncrest.online
 k-o1w.online
@@ -809,6 +810,7 @@ teknologi-usa.com
 zkt56.lslideusa.com
 hp508.lslideusa.com
 pxg18.lslideusa.com
+luxuryexchangeusa.com
 guanacosenusa.com
 track.nevertoomuchdata.com
 lihatkita.com
@@ -3205,6 +3207,7 @@ ap.4kk4t0-koinv.xyz
 vhomes.vvtl-srv.xyz
 voips.vvtl-srv.xyz
 p0y1w.xyz
+royat.panel.craymordw.xyz
 ov.m4sh-up1x.xyz
 savannahgax.xyz
 gxp-cx.xyz
