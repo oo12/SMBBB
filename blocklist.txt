@@ -2391,6 +2391,7 @@ dev.papus.in
 vksharemarket.in
 greedyparrot.in
 getcert.in
+stannes.edu.in
 gmaax.in
 panaceaacademy.in
 payjuz.in
@@ -2968,6 +2969,7 @@ static.ucraft.net
 irsbusinessaudit.net
 d1icd6shlvmxi6.cloudfront.net
 d3fw5vlhllyvee.cloudfront.net
+jinshuju.net
 tartatiosbsaversv.net
 aghslaw.net
 www.aghslaw.net
