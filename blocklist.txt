@@ -249,6 +249,7 @@ vkr4ej60yb0t75debew6-1xe4k21syhcuu4z1opg5-lxcso64zs4w423auuzcm.glitch.me
 periodic-ivy-allium.glitch.me
 adobe-online-login.glitch.me
 substantial-futuristic-mastodon.glitch.me
+nonstop-serious-suggestion.glitch.me
 overjoyed-flannel-crown.glitch.me
 resolute-decorous-cheddar.glitch.me
 woolen-fresh-shoulder.glitch.me
@@ -946,7 +947,9 @@ objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
+cnwoeirhfnv-03w9h-gfv93whr-vg9w3reh-f93w4f.obs.af-south-1.myhuaweicloud.com
 vwnberiouvfgh-032w4eh8g0-p8wihg0-83wrg.obs.ap-southeast-3.myhuaweicloud.com
+bvciw0-t93405-tyhg-340hg-v394hg-095h-g98hr-g8y.obs.ap-southeast-3.myhuaweicloud.com
 na.eventscloud.com
 www.cpfitnessuae.com
 brilliantscribe.com
@@ -1644,6 +1647,7 @@ impoihis.herokuapp.com
 secureserverfaithmails.herokuapp.com
 milanms.herokuapp.com
 main.dql4xibddkyp6.amplifyapp.com
+prod.d340wtyyl7qeol.amplifyapp.com
 webmailstoragesrvr4567-supportdev.codeanyapp.com
 innovativeerp.com
 nyscontractingservicescorp.com
@@ -1903,6 +1907,7 @@ vanitylabels.com
 k9apparels.com
 woafagsk.ylxvwiq2.nathirtravels.com
 sonyaroseoils.com
+gp.1ge44.dhakafoils.com
 twinsoils.com
 sso.havells.com
 spsmartschools.com
@@ -2905,6 +2910,7 @@ securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
 tbtiglobal.net
 amazon.sellerscentral.net
+www.4e.aartisteel.net
 t.apemail.net
 cnd11.smsmail.net
 p.nfo.mavikonsol.net
@@ -3240,6 +3246,7 @@ k-ik.xyz
 nvmkk.xyz
 bj.uky89-iok.xyz
 ra.blog0-2smok.xyz
+universalunioncapital.xyz
 online.vcvoicecaller-mail.xyz
 ch73gdjkl.xyz
 rigfhhjviol.xyz
