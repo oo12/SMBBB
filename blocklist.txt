@@ -976,6 +976,7 @@ express.adobe.com
 rfp22.squarespace.com
 wrasse-beige-z688.squarespace.com
 opossum-semicircle-n5nk.squarespace.com
+finance-scottandreidcom.squarespace.com
 trombone-papaya-nbfz.squarespace.com
 456478456478.givethemspace.com
 lclyurpgh.vomatece.com
@@ -2334,6 +2335,7 @@ microsoftecuredrive.weebly.com
 rackspemailrack.weebly.com
 directvoicercall.weebly.com
 officeoutlook365login.weebly.com
+micro-online-verification.weebly.com
 simonelligroup.weebly.com
 micrsoftwetransfer.weebly.com
 sharepointdocs.weebly.com
@@ -2463,6 +2465,7 @@ abvme.co
 rplg.co
 ipapi.co
 storageapi.fleek.co
+long-unit-4446.on.fleek.co
 rate.paigea11.repl.co
 rank.paigea11.repl.co
 represent.kevlo.repl.co
