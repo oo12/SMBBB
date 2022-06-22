@@ -170,7 +170,9 @@ skysguy.eu-gb.cf.appdomain.cloud
 joys.us-south.cf.appdomain.cloud
 wamomoditiiditioz-restless-hippopotamus-dt.us-south.cf.appdomain.cloud
 re-inbox.us-south.cf.appdomain.cloud
+azureoauth365.elementor.cloud
 accessauthorization.elementor.cloud
+securityprompt.elementor.cloud
 fonts.heyflow.cloud
 restaurant1992.be
 5iz1-mbhz7y-vzt15iz1-mbhz7y-vzt1.okpc.be
@@ -310,6 +312,7 @@ l-durk.online
 p-k1l.online
 mp.ding-voicedial.online
 microsoft.voipstudioteam.online
+db-vm.online
 helpdomain-netorgin.online
 msn.servervoipmmn.online
 user.office365verification.online
@@ -372,6 +375,7 @@ kyc-in-my-meta.live
 yu-si.live
 shareddocsonlineportal.live
 redder.live
+e32m2.77news.live
 electronicbill.way.live
 electronicreceipt.way.live
 rto1.cf
@@ -665,6 +669,7 @@ registrations.ironhorse.ml
 gyportye.ml
 fretlong.ml
 kaakchirurg.ml
+dmanxil.ml
 erahul.ml
 theloo.ml
 wietrensfer.hiemtro.ml
@@ -705,6 +710,7 @@ sheridan4sheriff2020.com
 trk.cp20.com
 www.mcare360.com
 evetech360.com
+www.twilightloan0.com
 smtpro101.com
 email.dream11.com
 bmklogger2021.com
@@ -714,6 +720,7 @@ onedrive.pinee1.com
 aerialf1.com
 2bw56.r.a.d.sendibm1.com
 4xw9h.r.a.d.sendibm1.com
+kceusm4c.e0q1.com
 jockeyclubs1.com
 employee-managements.s3.us-west-000.backblazeb2.com
 f000.backblazeb2.com
@@ -855,6 +862,7 @@ luxuryexchangeusa.com
 guanacosenusa.com
 www.onlinepromotionsusa.com
 track.nevertoomuchdata.com
+garfieldcta.com
 lihatkita.com
 atcocorp.okta.com
 novapirlanta.com
@@ -1012,6 +1020,7 @@ sarkarinaukriguide.com
 app.destinfishinguide.com
 ampworldwide.com
 tropimonde.com
+login.mcrosoftonlne.com.respondermode.com
 chrystalilee.com
 lawyerstitlee.com
 peofree.com
@@ -1453,6 +1462,7 @@ backman.com
 councilman.com
 secure.papersignman.com
 josephbannerman.com
+churchrestorman.com
 zzznan.com
 viajesbumeran.com
 kurmagrosiran.com
@@ -1757,6 +1767,7 @@ form.123formbuilder.com
 cdn4.iconfinder.com
 webqoder.com
 mtiz.truesinger.com
+sockjs.pusher.com
 themanepremier.com
 accountspeaker.com
 www.jeyshanker.com
@@ -2073,6 +2084,7 @@ wazius.com
 losmilagrosdejesus.com
 vaa6ss.pakdevs.com
 flcpty.pakdevs.com
+gnwuxsi3.iqservs.com
 0s62bmu3aj.execute-api.us-east-1.amazonaws.com
 misoft780.s3.us-east-2.amazonaws.com
 misoft41.s3.us-east-2.amazonaws.com
@@ -2434,6 +2446,7 @@ www.thelipl.in
 dreadful.in
 alaalam.in
 groupindia.co.in
+url3665.ssfinance.co.in
 vijaynicole.co.in
 oolite.co.in
 vijaystores.co.in
@@ -2656,6 +2669,7 @@ donwloadfiles.top
 securefiles.top
 submitonly.top
 aozo6-dyaaa-aaaad-qcaza-cai.ic0.app
+mi2fq-vyaaa-aaaad-qcs5q-cai.ic0.app
 skype-online04171.web.app
 newadobeproject1.web.app
 billionsways0192.web.app
@@ -2946,6 +2960,7 @@ u9333340.ct.sendgrid.net
 u26654870.ct.sendgrid.net
 u27225431.ct.sendgrid.net
 u25369751.ct.sendgrid.net
+u27398053.ct.sendgrid.net
 u22356194.ct.sendgrid.net
 u25154415.ct.sendgrid.net
 u25086806.ct.sendgrid.net
@@ -3115,6 +3130,7 @@ badayel.com.au
 foreststump.com.au
 greendrop.com.au
 nepeanrefereesgroup.com.au
+ellaszpindler.com.au
 alstutor.com.au
 nrasproperties.com.au
 www.elitewholesalers.com.au
