@@ -171,7 +171,9 @@ joys.us-south.cf.appdomain.cloud
 wamomoditiiditioz-restless-hippopotamus-dt.us-south.cf.appdomain.cloud
 re-inbox.us-south.cf.appdomain.cloud
 azureoauth365.elementor.cloud
+office.elementor.cloud
 accessauthorization.elementor.cloud
+promptaccess.elementor.cloud
 securityprompt.elementor.cloud
 fonts.heyflow.cloud
 restaurant1992.be
@@ -322,6 +324,7 @@ coolaircondition.online
 server.livevoip.online
 margot-qatar.online
 microsoft.mpstudioserver.online
+grakasor.online
 vm.voicetones.online
 server.voipservicesystems.online
 justin-comms.online
@@ -522,6 +525,7 @@ leongjin.co.th
 www.beautiful.ai
 opteam.ai
 xn--80aehzeeksdbf7i.xn--p1ai
+haminanrotaryklubi.fi
 sbst1t3.wiki
 href.li
 ozkmn-puconci.si
@@ -932,6 +936,9 @@ attractivesolutionsllc.com
 www.mezyadmc.com
 art.tokotmc.com
 eafoodcnc.com
+wwwoffice.rodlncoinc.com
+login-microsoftonline.rodlncoinc.com
+login.rodlncoinc.com
 uhrrinc.com
 jcsrinc.com
 247hotelshampton.lt.acemlnc.com
@@ -1321,6 +1328,7 @@ www.eq.disharoyaylaevleri.com
 americawoori.com
 simetrik-integrasi.com
 www.graduasi.com
+files.vmtsi.com
 u.cim0.parksepeti.com
 y.rs0b.parksepeti.com
 logi4.xiti.com
@@ -1362,6 +1370,7 @@ iraniansk.com
 campuscartskiosk.com
 20210615092531.dsenuk.com
 up.cobauntuk.com
+vk.com
 sawwobal.com
 urbanamedical.com
 nevamedical.com
@@ -1523,6 +1532,7 @@ vckadmin.com
 link.sendbloomin.com
 preview.uxpin.com
 hakansirin.com
+asphaltpavin.com
 www.kloepfel-magazin.com
 showbizzmagazin.com
 www.teamestatesmn.com
@@ -2053,6 +2063,7 @@ tehzeebmovers.com
 europeanboxers.com
 rivkolnteriors.com
 idealroofingandexteriors.com
+JNhDWk7m.MDO5Jrjq.zenonflloors.com
 capitolsquareadvisors.com
 uktoptutors.com
 registration.realestatehours.com
@@ -2468,6 +2479,7 @@ groupindia.co.in
 url3665.ssfinance.co.in
 vijaynicole.co.in
 oolite.co.in
+suryagolds.co.in
 vijaystores.co.in
 w.entertainmentconsultant.co.in
 kaykay.co.in
@@ -2905,6 +2917,7 @@ lahor.hr
 d-color.hr
 bazare-amlak.ir
 s.cafebazaar.ir
+adriyanus.ir
 bgnet.ir
 acbot.ir
 jxs37pe2.baplhl4u.easyfixgaragedoor.repair
@@ -2986,6 +2999,7 @@ u25369751.ct.sendgrid.net
 u27398053.ct.sendgrid.net
 u22356194.ct.sendgrid.net
 u25154415.ct.sendgrid.net
+u27654685.ct.sendgrid.net
 u25086806.ct.sendgrid.net
 u24377376.ct.sendgrid.net
 u22703776.ct.sendgrid.net
