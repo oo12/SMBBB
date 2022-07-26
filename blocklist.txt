@@ -561,6 +561,7 @@ nftstorage.link
 bafkreihgouxyldb5cx2ca5z6d2bzohyzjkuscdhtzm3matlnq62gc6vmc4.ipfs.nftstorage.link
 bafkreidmoztzu5eqyusvqipfczkivfconlncscwdxtlmbakcrcmxkmnaj4.ipfs.nftstorage.link
 bafybeiayfutwos7bc7c22olelfl4hlkfo7cwsqez6hcapuhpo2oogchkhe.ipfs.nftstorage.link
+bafkreid2x6eob5qz3gjpihcrfjnsyxmjfgtiglfrrkdsoy4bldathfsgku.ipfs.nftstorage.link
 bafybeiet7lt56udc64gfhhuyl6rop6pohe63o4ly6zxdf24t7vazu6m3lu.ipfs.nftstorage.link
 lhad4y1tvh2v9r2n7pz1.app.link
 61fe30ytom7q395m3sn4.app.link
@@ -3347,6 +3348,7 @@ periodent.com.mx
 medcom.mx
 bolmexico.mx
 villahidalgo.mx
+www.kepf.y2.maschurro.mx
 babalu.mx
 adme.today
 1615997949.site.goapp.today
