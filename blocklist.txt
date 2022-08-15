@@ -1022,6 +1022,8 @@ objectstorage.us-ashburn-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
 cnwoeirhfnv-03w9h-gfv93whr-vg9w3reh-f93w4f.obs.af-south-1.myhuaweicloud.com
+vnhoei89rug0-reh0-ghw0-rhgf0-whgf0-8wh4erf.obs.af-south-1.myhuaweicloud.com
+cvwnherfvg0pi89we4hr-0fghw-0ip9ehr4-0g8hwerhgferfg.obs.sa-brazil-1.myhuaweicloud.com
 vwnberiouvfgh-032w4eh8g0-p8wihg0-83wrg.obs.ap-southeast-3.myhuaweicloud.com
 bvciw0-t93405-tyhg-340hg-v394hg-095h-g98hr-g8y.obs.ap-southeast-3.myhuaweicloud.com
 na.eventscloud.com
@@ -1071,6 +1073,7 @@ lawyerstitlee.com
 peofree.com
 jasoncafe.com
 fatosdafe.com
+nutra4life.com
 y5.xnew.hesaplitarife.com
 email.redgage.com
 www.emirates-package.com
@@ -1504,6 +1507,7 @@ bzbxizpw75z.typeform.com
 form.jotform.com
 app.jotform.com
 submit.jotform.com
+j-ntm.com
 juryminimum.com
 voidforum.com
 estetikdiserzurum.com
@@ -2427,6 +2431,7 @@ www.sichontalay.com
 sumba-pay.com
 lafashiononbroadway.com
 antarticy.com
+juneducationalconsultancy.com
 madisongroupconsultancy.com
 nueratrainingbusinessconsultancy.com
 lifetimeready.com
@@ -2684,6 +2689,7 @@ ipinfo.io
 sos-de-fra-1.exo.io
 mellivora-28443.portmap.io
 faxmessages.additor.io
+get.geojs.io
 02179916.akstat.io
 684dd32e.akstat.io
 app.prospect.io
@@ -2707,6 +2713,7 @@ cwyws.codesandbox.io
 qii2t.codesandbox.io
 8iu7w.codesandbox.io
 wafaanawazz1.editorx.io
+materiia.editorx.io
 christykeith9j.editorx.io
 adrninpylenagel.editorx.io
 o245711.ingest.sentry.io
@@ -3071,6 +3078,7 @@ zallinawde.gb.net
 lesemondwde.gb.net
 vfg4fg4fv4f4f.gb.net
 yo2c.net
+career-cc.net
 www.summitgc.net
 humansync.net
 vqedqsd.linkpc.net
@@ -3304,6 +3312,7 @@ mytehranmusic.ru
 constablesoffice.ru
 panthe56regruppewde.ru
 exp.anti-malware.ru
+campsfoodfre.ru
 beautychicrose.ru
 srand04rf.ru
 eim.ae.webmail.u1360991.cp.regruhosting.ru
@@ -3458,6 +3467,7 @@ wwwoffice.vmonlineservice.xyz
 kenyattaprairie.xyz
 service.crossoftonline.xyz
 op.g2yu-bere.xyz
+boasecure.xyz
 bergemillsuite.xyz
 jn.c7a-8f.xyz
 officeverify.authcredconfig.xyz
