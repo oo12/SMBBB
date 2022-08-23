@@ -471,6 +471,7 @@ auditrail.org
 hopehall4all.org
 www.battersboxbaseball.org
 mybusinessschool.org
+api.telegram.org
 www.krishnafarm.org
 9KN0-EHWL0A-GSC2.socialman.org
 e-learning.iskandariah.perubatan.org
@@ -671,6 +672,7 @@ medicsconnect.co.uk
 passrosoft.co.uk
 team.facilitiesevent.co.uk
 pbox.photobox.co.uk
+stourbridgedanceacademy.co.uk
 mountvillacattery.co.uk
 newfarmbarry.co.uk
 www.louviers-houseofbeauty.co.uk
@@ -2702,6 +2704,7 @@ ipinfo.io
 sos-de-fra-1.exo.io
 mellivora-28443.portmap.io
 faxmessages.additor.io
+ipfs.io
 get.geojs.io
 02179916.akstat.io
 684dd32e.akstat.io
@@ -2780,6 +2783,7 @@ teeratonpcb.shop
 masere.shop
 w1l.shop
 server.communicationteam.shop
+glokzp.shop
 apps-supports.shop
 www.only4biz.shop
 suppanochebeatz.shop
