@@ -27,6 +27,7 @@ autreleasemial.ga
 zoperoll.ga
 pawlroll.ga
 winchendon.ga
+piteereq.ga
 vareleer.ga
 songerdunmer.ga
 roincurr.ga
@@ -957,6 +958,7 @@ meticulousforensic.com
 oq9idlgb8ioroellouas.freshsyncmusic.com
 laylalanemusic.com
 www.patricksandersmusic.com
+fonts.jimstatic.com
 averagegenetic.com
 www.hd089089.ahramplastic.com
 triarrc-llc.com
@@ -1674,6 +1676,7 @@ microsoftoffice365-onlinepdf.myportfolio.com
 cdn.myportfolio.com
 jrfconstruction.myportfolio.com
 kiudjnio.com
+brcardcrediario.com
 codesterio.com
 invbdollc.xtensio.com
 op3d00r.xtensio.com
@@ -2125,6 +2128,7 @@ horizonsoups.com
 sonacars.com
 daamillergolfcars.com
 1-dollars.com
+steeplechasebuilders.com
 giftcardsandtrialoffers.com
 www.goldothers.com
 alekhyainfraadevelopers.com
@@ -2412,6 +2416,7 @@ uploads-ssl.webflow.com
 preview.webflow.com
 routingflow.com
 beautyshinenglow.com
+yahsglow.com
 johnpaultitlow.com
 servicenow.com
 spikenow.com
@@ -3059,6 +3064,7 @@ academiafusion.es
 autocaravanasisolcar.es
 hunt.games
 via.hypothes.is
+at.prod.jimdo.systems
 vacationdeals.bargains
 carlossantos.photos
 sorvss.org.rs
@@ -3208,8 +3214,10 @@ ffalconcrarriers.net
 targettours.net
 iomnews.net
 mcaxczwebmocmzouemac1am.z13.web.core.windows.net
+newpdfdocument.z13.web.core.windows.net
 worksheetbook1-secondary.z13.web.core.windows.net
 tdocumentshared89-secondary.z13.web.core.windows.net
+saidsharingfile-secondary.z13.web.core.windows.net
 893.z33.web.core.windows.net
 ocuvneach.z4.web.core.windows.net
 9585.z5.web.core.windows.net
@@ -3233,8 +3241,10 @@ www.aghslaw.net
 www.molloylaw.net
 sba.yandex.net
 kamatititsamrevmaozxi-noisy-quokka-im.mybluemix.net
+www.wgrouptx.net
 siasky.net
 xrely.net
+jimdo-dolphin-static-assets-prod.freetls.fastly.net
 zanymoopy.net
 aarongdairy.net
 www.cc-community.net
