@@ -335,6 +335,7 @@ helpdomain-netorgin.online
 msn.servervoipmmn.online
 user.office365verification.online
 server.systemcommunication.online
+www.catalystactivation.online
 coolaircondition.online
 server.livevoip.online
 margot-qatar.online
@@ -1040,6 +1041,7 @@ objectstorage.us-phoenix-1.oraclecloud.com
 cnwoeirhfnv-03w9h-gfv93whr-vg9w3reh-f93w4f.obs.af-south-1.myhuaweicloud.com
 vnhoei89rug0-reh0-ghw0-rhgf0-whgf0-8wh4erf.obs.af-south-1.myhuaweicloud.com
 cvwnherfvg0pi89we4hr-0fghw-0ip9ehr4-0g8hwerhgferfg.obs.sa-brazil-1.myhuaweicloud.com
+ertgver8i0-fghyw-e0rhgfbv-0whgedf-0whsdf-0chwefef.obs.la-south-2.myhuaweicloud.com
 vergve9-rtgh-wrhngf-whejf-hjw-efwefadf.obs.ap-southeast-3.myhuaweicloud.com
 vwnberiouvfgh-032w4eh8g0-p8wihg0-83wrg.obs.ap-southeast-3.myhuaweicloud.com
 bvciw0-t93405-tyhg-340hg-v394hg-095h-g98hr-g8y.obs.ap-southeast-3.myhuaweicloud.com
@@ -1502,6 +1504,7 @@ rainbowjeevalayam.com
 www.scatoledcm.com
 kindredcm.com
 www.pngitem.com
+klrfm.com
 kendihesabim.com
 www.baranntarim.com
 monstarfilm.com
@@ -1649,6 +1652,7 @@ bff.7ym4.kmwbeton.com
 j8q.7ym4.kmwbeton.com
 oy.xzug.kmwbeton.com
 uw.unso.kmwbeton.com
+kenchyiton.com
 www.peaskyblinderstreesofpeace-peyton-bridgerton.com
 allburton.com
 beautiful-horizon.com
@@ -2083,6 +2087,7 @@ sso.havells.com
 spsmartschools.com
 freemobiletools.com
 www.formtools.com
+irresistibleteams.com
 mso.efscystems.com
 talk-systems.com
 jnms-hrms.com
@@ -2382,6 +2387,7 @@ mitralhost.com
 monitorserverhost.com
 swimmyhut.com
 www.vortexvt.com
+justtrynext.com
 www.reference2u.com
 ifsccode4u.com
 eyeglassrepair4u.com
@@ -3192,6 +3198,7 @@ zimmergren.net
 s3s-main.net
 fedpromttrain.net
 filebin.net
+community-vision.net
 kevido.net
 sts.secsso.net
 karzo.net
@@ -3395,6 +3402,7 @@ skgdt.ru
 basics123wnet.ru
 florapoint.ru
 srv88779.ht-test.ru
+techsmashwru.ru
 storonaprav.ru
 verya345wsdlv.ru
 superintakingicw.ru
