@@ -1,5 +1,6 @@
 # Collected since January 2022 | https://github.com/oo12/SMBBB
 
+112.213.120.160
 112.213.120.174
 121.40.83.145
 123.57.253.55
