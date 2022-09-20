@@ -183,6 +183,7 @@ re-inbox.us-south.cf.appdomain.cloud
 azureoauth365.elementor.cloud
 office.elementor.cloud
 proofpointessential.elementor.cloud
+office365login.elementor.cloud
 accessauthorization.elementor.cloud
 officequarantineemails.elementor.cloud
 promptaccess.elementor.cloud
@@ -341,6 +342,7 @@ tu-ri.online
 b0y-8j.online
 l-durk.online
 enquire-ask.online
+enquiries-ask.online
 p-k1l.online
 mp.ding-voicedial.online
 microsoft.voipstudioteam.online
@@ -390,6 +392,7 @@ hf83rb7.date
 tangismedia.site
 document-563677.square.site
 sarahmurphy-artemidenorth-america.square.site
+microsoft-team-portal.square.site
 ping-microsoft-teams-oauth-business-media-room.square.site
 virtual-office-fax.square.site
 edulatam.site
@@ -2351,6 +2354,7 @@ mail.onlinedatabasemgmt.com
 jupitersmt.com
 multichannelmerchant.com
 www.codiant.com
+l.e.allegiant.com
 cultivaterestaurant.com
 www.ringmybellaccountant.com
 dmg-client.com
@@ -2754,6 +2758,7 @@ aziem20dmaop.info
 oladriver.info
 appccongress.info
 netflix.home.privacy-management.info
+mailsupport.info
 testb2.tsukaeru.info
 carslx.info
 nationpro.greatopportunity.info
@@ -3086,6 +3091,8 @@ ricardoart.com.br
 ibert.com.br
 flladv.com.br
 infolex.com.br
+875522436.retenfix.com.br
+775425879.retenfix.com.br
 ipw3.joule.eco.br
 n4c8.joule.eco.br
 arrc.joule.eco.br
@@ -3121,6 +3128,7 @@ d-color.hr
 wUMZbsj.zgwro2.yopchagi.ir
 bazare-amlak.ir
 s.cafebazaar.ir
+r5nUx.persianstarter.ir
 PQNfFcOK.LD36RUf.parparvazpars.ir
 adriyanus.ir
 bgnet.ir
@@ -3207,6 +3215,7 @@ u9333340.ct.sendgrid.net
 u26654870.ct.sendgrid.net
 u27225431.ct.sendgrid.net
 u25369751.ct.sendgrid.net
+u29102462.ct.sendgrid.net
 u27398053.ct.sendgrid.net
 u22356194.ct.sendgrid.net
 u25154415.ct.sendgrid.net
