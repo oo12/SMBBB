@@ -184,6 +184,7 @@ wamomoditiiditioz-restless-hippopotamus-dt.us-south.cf.appdomain.cloud
 re-inbox.us-south.cf.appdomain.cloud
 azureoauth365.elementor.cloud
 office.elementor.cloud
+proofpoint365ovacheck.elementor.cloud
 proofpointessential.elementor.cloud
 office365login.elementor.cloud
 accessauthorization.elementor.cloud
@@ -1484,6 +1485,7 @@ campuscartskiosk.com
 20210615092531.dsenuk.com
 up.cobauntuk.com
 vk.com
+m.vk.com
 sawwobal.com
 urbanamedical.com
 nevamedical.com
@@ -2865,6 +2867,7 @@ www.notion.so
 tally.so
 rla.to
 esee.to
+zii.to
 lnk.to
 sunnyspot.sakura.ne.jp
 www.e-sogi.ne.jp
@@ -3226,6 +3229,7 @@ u9333340.ct.sendgrid.net
 u26654870.ct.sendgrid.net
 u27225431.ct.sendgrid.net
 u25369751.ct.sendgrid.net
+u29135191.ct.sendgrid.net
 u29102462.ct.sendgrid.net
 u27398053.ct.sendgrid.net
 u22356194.ct.sendgrid.net
