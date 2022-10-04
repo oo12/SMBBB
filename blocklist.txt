@@ -397,6 +397,7 @@ kjag.se
 hf83rb7.date
 tangismedia.site
 document-563677.square.site
+microsoft-team-1089.square.site
 sarahmurphy-artemidenorth-america.square.site
 microsoft-team-portal.square.site
 ping-microsoft-teams-oauth-business-media-room.square.site
@@ -520,6 +521,7 @@ gursikheducation.org
 www.petrosolution.org
 amupn.org
 9NZ6-IFMZ3Y-STX7.caodaibanchinhdao.org
+www.vandco.org
 www.gadem-asso.org
 reconto.org
 cm-app.org
@@ -883,6 +885,8 @@ sejiwaraga.com
 tagnicredga.com
 andreortega.com
 bimga.com
+js.hcaptcha.com
+newassets.hcaptcha.com
 rakombucha.com
 gayanathmadusankha.com
 www.padmaaonprakasha.com
@@ -1183,6 +1187,7 @@ wgoogle.com
 swastikmobile.com
 glowchile.com
 www.lonjanortevalle.com
+ecoledepole.com
 busybeepeople.com
 www.uvitashuttle.com
 ezaeziemutaezle.com
@@ -2385,6 +2390,7 @@ l.e.allegiant.com
 cultivaterestaurant.com
 www.ringmybellaccountant.com
 dmg-client.com
+dryfiretournament.com
 findcatchment.com
 capturedinthemoment.com
 shopifydevelopment.com
@@ -2420,6 +2426,7 @@ anotherplanet-my.sharepoint.com
 btrust-my.sharepoint.com
 ridadev-my.sharepoint.com
 bellcarringtonlaw-my.sharepoint.com
+nationwideabstrax-my.sharepoint.com
 swimmingnz-my.sharepoint.com
 ultrascreenprint.com
 passportbuckshot.com
@@ -2473,6 +2480,8 @@ www.bap-host.com
 groupkoreahost.com
 mitralhost.com
 monitorserverhost.com
+login.4331tt.com
+www.4331tt.com
 swimmyhut.com
 www.vortexvt.com
 justtrynext.com
@@ -2607,6 +2616,7 @@ sharepointdocs.weebly.com
 acctdesktechnicaldesksubmitadds.weebly.com
 office365loginmicrosofts.weebly.com
 office365loginmicrosoft.weebly.com
+theofficesmaindept.weebly.com
 xxxbox.weebly.com
 webmailracky.weebly.com
 cathedralofhope2.mystrikingly.com
@@ -3261,6 +3271,7 @@ www.docdroid.net
 u22255630.ct.sendgrid.net
 u9333340.ct.sendgrid.net
 u26654870.ct.sendgrid.net
+u29336190.ct.sendgrid.net
 u27225431.ct.sendgrid.net
 u25369751.ct.sendgrid.net
 u29135191.ct.sendgrid.net
