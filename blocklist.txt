@@ -2384,6 +2384,8 @@ wwwofc.officevpreset.com
 lmo.officevpreset.com
 advancelevelsset.com
 suspectbanquet.com
+customervoice.microsoft.com
+ncv.microsoft.com
 serverssoft.com
 sensoregt.com
 mail.match2night.com
