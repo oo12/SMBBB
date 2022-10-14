@@ -890,8 +890,6 @@ sejiwaraga.com
 tagnicredga.com
 andreortega.com
 bimga.com
-js.hcaptcha.com
-newassets.hcaptcha.com
 rakombucha.com
 gayanathmadusankha.com
 www.padmaaonprakasha.com
@@ -1382,6 +1380,9 @@ mixerhosting.com
 onelife1.conohawing.com
 walc-design.conohawing.com
 answers.conohawing.com
+gui.zzzong.com
+login.zzzong.com
+sso.zzzong.com
 www.kindpng.com
 etilung.com
 t.m1.email.samsung.com
@@ -2445,6 +2446,7 @@ almightylawn-my.sharepoint.com
 gvmco-my.sharepoint.com
 bewchicago-my.sharepoint.com
 gatewayinsurancebroker-my.sharepoint.com
+therisecenter-my.sharepoint.com
 howardhughes-my.sharepoint.com
 hoistfs-my.sharepoint.com
 wwrengrs-my.sharepoint.com
@@ -2977,6 +2979,7 @@ correigoi.top
 www.pizzariaorigem.top
 claclom.top
 keywordeur.top
+lmo.office-messages.top
 donwloadfiles.top
 securefiles.top
 submitonly.top
@@ -3668,6 +3671,7 @@ citrex.com.my
 eimage.o2o.my
 pbmjx.youroffer.company
 ekpkndzicoag.fkph.wiu.edu.sy
+www.anibia.cz
 giplait.dz
 all.biz
 wisteria3.asto-system.biz
