@@ -120,6 +120,7 @@ unisri.ac.id
 ipa.fkip.ulm.ac.id
 www.3o9o19r5qyigp1o2ywcwu.wisuda.ump.ac.id
 smpypm1.sch.id
+sditmakiya.sch.id
 smk-isfi.sch.id
 mamaarifsukorejo.sch.id
 batagorasyik.id
@@ -602,6 +603,7 @@ ledi-iptv.ch
 e8ea4fb1-654d-4588-a96a-ebb3f4e6b27f-6ec32ddc.analytictheoritical.tech
 sharepoint.analytictheoritical.tech
 sso-godaddy.analytictheoritical.tech
+ipfs.tech
 likosa0q.beget.tech
 ststephenskisugu.church
 thinkblink.ph
@@ -1925,6 +1927,7 @@ cogniquo.com
 nelixo.com
 h.akiriyo.com
 i.gyazo.com
+mtbonlineacc.otzo.com
 huanluyenchocaocap.com
 www.nfonap.com
 hocviennongnghiep.com
@@ -2839,6 +2842,7 @@ blog.liulianshuo.cn
 www.co.jp.xhhxnq.cn
 www.co.jp.79hv2rxuq.cn
 clj.library.nenu.edu.cn
+security.feishu.cn
 childrenresortkid.design
 prf.hn
 onedonpoints24.in
@@ -2964,6 +2968,7 @@ owamessaging-system.watchkobe.info
 cartade.info
 zonefire.info
 senorpresidente.info
+uspsb-address-verification.safesolve.info
 files-managing.info
 e4fml.info
 ni.championroom.info
@@ -3010,6 +3015,7 @@ sos-de-fra-1.exo.io
 mellivora-28443.portmap.io
 faxmessages.additor.io
 ipfs.io
+fleek.ipfs.io
 get.geojs.io
 02179916.akstat.io
 684dd32e.akstat.io
