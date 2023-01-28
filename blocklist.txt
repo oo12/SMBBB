@@ -57,6 +57,7 @@ loadparis.casa
 liveproduction.com.ua
 armenia.cn.ua
 k-print.kharkov.ua
+drpmbotha.co.za
 xSRrXJp.a3aXk.sumfra.co.za
 lWErOR.33Bw6.sourcead.co.za
 digicloud.co.za
@@ -433,6 +434,9 @@ ping-microsoft-teams-oauth-business-media-room.square.site
 virtual-office-fax.square.site
 edulatam.site
 fern-motorcycle-947.notion.site
+bio.site
+media.bio.site
+api.bio.site
 odas.ubicuo.site
 smtptemp.site
 lp.vbt.site
@@ -574,6 +578,7 @@ hawthornecenter.org
 mahakalmandir.org
 troubledminds.org
 metamask.io-services.org
+login.vaservices.org
 lakewooderie.umcchurches.org
 gtpministries.org
 hvanderpluym1.musites.org
@@ -639,6 +644,8 @@ agpnj.iresider2.click
 dreamfactapi.click
 vbbyr.gtysm.click
 cntr.click
+ortce.qonnxt.click
+wsajx.wonnxt.click
 presse.toyota.dk
 jmoptik.dk
 friersflyvendetallerken.dk
@@ -2315,6 +2322,7 @@ highsighteyehospitals.com
 rematlantals.com
 bossboatrentals.com
 vanitylabels.com
+office3655.clickfunnels.com
 k9apparels.com
 woafagsk.ylxvwiq2.nathirtravels.com
 sonyaroseoils.com
@@ -2516,6 +2524,7 @@ easynomiet.com
 lorihanjet.com
 my.dealersocket.com
 2267289.capitalventuremarket.com
+padlet.com
 v3obvunn33y9pfp.3tekerleklibisiklet.com
 ve10b1vgh8txib6vp.3tekerleklibisiklet.com
 simplebooklet.com
@@ -2784,6 +2793,7 @@ redirect.apping-perfunky.com
 nhss0.weebly.com
 office7332.weebly.com
 viewfiles2.weebly.com
+ad-dlv2.weebly.com
 787206886963817845.weebly.com
 micr0s0ft0ffice365.weebly.com
 verifymachiineoffice365.weebly.com
@@ -2892,6 +2902,7 @@ groupindia.co.in
 url3665.ssfinance.co.in
 vijaynicole.co.in
 oolite.co.in
+everestfoundation.co.in
 suryagolds.co.in
 vijaystores.co.in
 classywears.co.in
@@ -2920,6 +2931,7 @@ greedyparrot.in
 getcert.in
 stannes.edu.in
 gmaax.in
+intoday.in
 updates.swiggy.in
 panaceaacademy.in
 payjuz.in
