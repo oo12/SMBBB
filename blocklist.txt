@@ -700,6 +700,7 @@ floslek.pk
 sultania.com.pk
 ifpc.com.pk
 632672031201371.foodonline.com.pk
+medisol.com.pk
 friendscosmetics.com.pk
 maes.com.pk
 www.maes.com.pk
@@ -738,6 +739,7 @@ dlaksjjww.tk
 fruityx.tk
 goodenemy.tk
 lulu.goodenemy.tk
+core.ac.uk
 articlearchive.org.uk
 theskelf.org.uk
 wqz64wdyrsq53pux6.coachprofession.org.uk
@@ -1617,6 +1619,7 @@ tokmakrepek.com
 www.607297650598.pdam-tirtarandik.com
 betmagik.com
 3mprefabrik.com
+calprivybank.com
 dirttodank.com
 r.sib.wedoolink.com
 totalitarlink.com
@@ -2613,6 +2616,7 @@ ashadevipolytechniccol-my.sharepoint.com
 almightylawn-my.sharepoint.com
 gvmco-my.sharepoint.com
 bewchicago-my.sharepoint.com
+hirschcorp-my.sharepoint.com
 gatewayinsurancebroker-my.sharepoint.com
 therisecenter-my.sharepoint.com
 howardhughes-my.sharepoint.com
@@ -3096,6 +3100,7 @@ ulx1bc.codesandbox.io
 ldr7e.codesandbox.io
 bdqgig.codesandbox.io
 y50mlh.codesandbox.io
+d2ztdj.codesandbox.io
 2o75k.codesandbox.io
 0nhgm.codesandbox.io
 suvvo.codesandbox.io
@@ -3692,6 +3697,9 @@ jimdo-dolphin-static-assets-prod.freetls.fastly.net
 zanymoopy.net
 aarongdairy.net
 www.cc-community.net
+28c4f900-b2687af9.acquirarealty.net
+ll.acquirarealty.net
+lmo.acquirarealty.net
 ungerrealty.net
 dogothanhthuy.net
 koreawiz.net
@@ -3722,6 +3730,7 @@ mitup.pt
 kevingrass.art
 app.process.st
 123456789.best
+l-loginmicrosoft.office-secure.quest
 gcd.techn.quest
 aig.techservices.quest
 wuz.primativefit.quest
