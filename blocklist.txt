@@ -762,6 +762,7 @@ cvgeek.co.uk
 lhijeq2kshdgu.softlook.co.uk
 1ststepinuk.co.uk
 4keyv5.realescapetravel.co.uk
+beckinghamschool.co.uk
 008220c.gerardcarol.co.uk
 yourman.co.uk
 davejallen.co.uk
@@ -2580,6 +2581,7 @@ ad.atdmt.com
 qlzy.cuhfmt.com
 mail.onlinedatabasemgmt.com
 jupitersmt.com
+cuddleconfidant.com
 multichannelmerchant.com
 www.codiant.com
 l.e.allegiant.com
@@ -3072,6 +3074,7 @@ sos-de-fra-1.exo.io
 mellivora-28443.portmap.io
 faxmessages.additor.io
 ipfs.io
+infura-ipfs.io
 fleek.ipfs.io
 get.geojs.io
 02179916.akstat.io
@@ -3841,6 +3844,7 @@ metalrus.ru
 skgdt.ru
 basics123wnet.ru
 florapoint.ru
+srv186221.hoster-test.ru
 srv88779.ht-test.ru
 spi767igbutt.ru
 techsmashwru.ru
