@@ -429,6 +429,7 @@ click.fourseven.one
 login.burgerswap.one
 app.ludus.one
 tuestday-abots.billingpay.one
+env-1401318.node.cloudlets.zone
 ymad6ffqit7sj9b.ory.zone
 leobanu.appweb.pe
 tce.pe
@@ -1994,6 +1995,7 @@ www.669749266669749266-669749266.anleo.com
 lagranjadeeliseo.com
 ccsellschicago.com
 app.evalandgo.com
+www.zigo.com
 ecofiltroform.triciclogo.com
 wppjradio.com
 prepradio.com
@@ -2468,6 +2470,7 @@ ac10a01e-f57e-43b2-9d12-b3dd55c77c20-43cc62ce.trasnystems.com
 login-microsftonline.trasnystems.com
 talk-systems.com
 jnms-hrms.com
+form.mightyforms.com
 app.mightyforms.com
 yhaluminums.com
 a-plushosting-ns.com
@@ -4130,6 +4133,7 @@ medcom.mx
 bolmexico.mx
 villahidalgo.mx
 www.kepf.y2.maschurro.mx
+pixtor.mx
 chamilo.cut.edu.mx
 babalu.mx
 adme.today
