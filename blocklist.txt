@@ -1091,7 +1091,9 @@ amilminora.com
 magnitudeorchestra.com
 6axta.sa.com
 modhomeec.sa.com
+skyshopping.sa.com
 elqpR.vpCST.higheryork.sa.com
+universetrader.sa.com
 inflationreports.sa.com
 sfxsys.sa.com
 EzgAz.T81i8o.hidebux.sa.com
@@ -3258,6 +3260,7 @@ get.geojs.io
 02179916.akstat.io
 684dd32e.akstat.io
 app.prospect.io
+findprompt.io
 office-bde443.webflow.io
 secure-email-quarantine-checkpost-365.webflow.io
 trinityheritage.webflow.io
@@ -3780,6 +3783,7 @@ u28653619.ct.sendgrid.net
 u33155159.ct.sendgrid.net
 u27156979.ct.sendgrid.net
 homegrownfood.net
+apiservices.krxd.net
 rodacaribe.net
 www.selectscience.net
 cevital3.ayrade.net
