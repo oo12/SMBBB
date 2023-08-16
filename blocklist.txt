@@ -670,6 +670,7 @@ hyosung.silbarts.cloudns.ph
 sytex.silbarts.cloudns.ph
 eveci.dmultiplex.cloudns.ph
 kzonobel.dmultiplex.cloudns.ph
+transfer.tni.ac.th
 uss.ac.th
 skw.ac.th
 silverline.co.th
@@ -1167,6 +1168,7 @@ voguecollectionsb.com
 kfjvvsb.com
 ws.onehub.com
 oasisvacationshub.com
+atlantasountryclub.com
 vyzmgtw.zrvz24wb.com
 microsoft.tarrnac.com
 www.saasgcc.com
