@@ -429,6 +429,7 @@ microsoft.voipscommunications.online
 fcth-connect.online
 microsoft.365teamsupport.online
 sovsuccessioncrest.online
+wordocu.online
 suporterss4you.online
 k-o1w.online
 ta.audiotonez.online
@@ -2809,6 +2810,7 @@ thotainizent.com
 whiztechint.com
 doninc1-my.sharepoint.com
 uautomation1-my.sharepoint.com
+netorgft9439236-my.sharepoint.com
 tabgida-my.sharepoint.com
 thptbacthanglonga-my.sharepoint.com
 airstreamsa-my.sharepoint.com
@@ -2836,6 +2838,7 @@ royalsvcs-my.sharepoint.com
 howardhughes-my.sharepoint.com
 hoistfs-my.sharepoint.com
 wwrengrs-my.sharepoint.com
+federalconstructors-my.sharepoint.com
 anotherplanet-my.sharepoint.com
 warehouseservicesnet-my.sharepoint.com
 btrust-my.sharepoint.com
