@@ -631,6 +631,7 @@ metamask.io-services.org
 login.vaservices.org
 lakewooderie.umcchurches.org
 gtpministries.org
+newventures.org
 hvanderpluym1.musites.org
 awcfs.org
 poligaris.org
@@ -2926,6 +2927,7 @@ eyeglassrepair4u.com
 etronics4u.com
 www.mercadodocacau.com
 unistaredu.com
+www.baidu.com
 maidne0wyeu.com
 thiagoribeirokungfu.com
 vavukaku.com
