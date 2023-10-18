@@ -2844,6 +2844,7 @@ gatewayinsurancebroker-my.sharepoint.com
 therisecenter-my.sharepoint.com
 royalsvcs-my.sharepoint.com
 howardhughes-my.sharepoint.com
+cawrecycles-my.sharepoint.com
 hoistfs-my.sharepoint.com
 wwrengrs-my.sharepoint.com
 federalconstructors-my.sharepoint.com
@@ -4341,6 +4342,7 @@ powerglobalsa.xyz
 laptopdata.xyz
 trstcheckmeta.xyz
 b-ec.xyz
+proworkinc.xyz
 hamersc.xyz
 ov.j4hm-i3lbad.xyz
 melvinawroad.xyz
