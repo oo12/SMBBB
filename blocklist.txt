@@ -1821,6 +1821,7 @@ t.email.eaccountmanager1email.com
 track.smtpsendemail.com
 nts.embluemail.com
 nt.embluemail.com
+usps.mybusimail.com
 sequoiacouncil.com
 canofil.com
 fabmccalloil.com
@@ -3482,6 +3483,7 @@ sodusmi.top
 correigoi.top
 www.pizzariaorigem.top
 claclom.top
+hd.10-admin.top
 lmo.gilesmcivro.top
 ickersdesigngup.top
 lmo.adminmatcopr.top
