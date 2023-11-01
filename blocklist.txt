@@ -456,6 +456,7 @@ eduline.edu.pe
 intranet.unsm.edu.pe
 uniq.edu.pe
 mypetstore.fedelta.store
+jmqjbusfc9.murdense.store
 gadget-heaven.store
 generatop.store
 mch0-zgy.store
@@ -2164,6 +2165,7 @@ gaandt.quip.com
 74358.yjabmjp.com
 vfwv17.didtheyhelp.com
 wheelerllp.com
+www.qrcodechimp.com
 forchettacafe.altawakalcomp.com
 hudanp.com
 ds-pcshop.com
@@ -3285,6 +3287,7 @@ iedrlaunion.edu.co
 fraynepomucenoramos.edu.co
 eseriogrande.gov.co
 docsreview.co
+api.smtprelay.co
 pixefy.co
 tinly.co
 kmetz.co
