@@ -2000,6 +2000,7 @@ login.ekiwin.com
 www.ekiwin.com
 www.kloepfel-magazin.com
 showbizzmagazin.com
+secure.chase-bakn.com
 www.teamestatesmn.com
 finally-con.com
 masccon.com
@@ -4040,6 +4041,7 @@ hhsdjf.blob.core.windows.net
 gvldap.blob.core.windows.net
 documentretailthemcgroup.blob.core.windows.net
 drivefaxforworkus.blob.core.windows.net
+chaseredirect.blob.core.windows.net
 secure01-redirect.net
 la.gmfsv.partyonabudget.net
 static.ucraft.net
@@ -4158,6 +4160,7 @@ workdrive.zohopublic.eu
 iamn2830.atspace.eu
 zc1.maillist-manage.eu
 player.ebmstreaming.eu
+ryudd.securityreviewdecision.eu
 rts.ccmp.eu
 pedantas.eu
 news.bestjobs.eu
