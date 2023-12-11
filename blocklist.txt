@@ -2537,6 +2537,7 @@ archincmenphis.com
 trsikis.com
 firebasestorage.googleapis.com
 eafrica-safaris.com
+kbase.pratesis.com
 api.emailjs.com
 smtpjs.com
 online-a.oni-ks.com
@@ -4165,6 +4166,7 @@ zc1.maillist-manage.eu
 player.ebmstreaming.eu
 ryudd.securityreviewdecision.eu
 rts.ccmp.eu
+www.studiojungbauer.eu
 pedantas.eu
 news.bestjobs.eu
 garden-max.eu
