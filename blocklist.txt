@@ -1320,6 +1320,7 @@ vergve9-rtgh-wrhngf-whejf-hjw-efwefadf.obs.ap-southeast-3.myhuaweicloud.com
 08-10-jfc-w0e9jf-0wejf0-hw-ehf-je-0fdj0-wherf0-he-08fh8ef.obs.ap-southeast-3.myhuaweicloud.com
 vwnberiouvfgh-032w4eh8g0-p8wihg0-83wrg.obs.ap-southeast-3.myhuaweicloud.com
 bvciw0-t93405-tyhg-340hg-v394hg-095h-g98hr-g8y.obs.ap-southeast-3.myhuaweicloud.com
+nxflz69g486b-1323563947.cos.ap-singapore.myqcloud.com
 oskarandjulia-1316850103.cos.na-toronto.myqcloud.com
 rubertdeventos-1316850103.cos.na-toronto.myqcloud.com
 preventingcrime-1317634057.cos.na-toronto.myqcloud.com
@@ -2794,6 +2795,7 @@ advancelevelsset.com
 suspectbanquet.com
 webservices-secure.ericsoft.com
 customervoice.microsoft.com
+ecv.microsoft.com
 ncv.microsoft.com
 serverssoft.com
 sensoregt.com
@@ -4265,6 +4267,7 @@ invoices.su
 equ.su
 wag.cv
 pub-17d3831db9f548f9aae97e6697e3caa0.r2.dev
+pub-ea69d787fac64d57b836c6e99b9cc9cb.r2.dev
 pub-e73e16cc0e174063b8aa3d7d11a78b9e.r2.dev
 c3s4.c17.e2-5.dev
 samallen.dev
