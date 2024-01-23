@@ -2423,6 +2423,7 @@ findics.com
 8bd6009f3e5b49c98b78a583c98666c9.svc.dynamics.com
 017f6e5bf7044cbd9fba426a37d6d13c.svc.dynamics.com
 523f682f4f1240499f4ba52935dd575d.svc.dynamics.com
+rydox.areteelectronics.com
 greenbuildingforensics.com
 sofabcosmetics.com
 spklogistics.com
@@ -4020,6 +4021,7 @@ stmservice.crm.gabriels.net
 europe-west1-niro-tracking.cloudfunctions.net
 ffalconcrarriers.net
 targettours.net
+precisionmillwrights.net
 iomnews.net
 w5e1m6a8q2.z1.web.core.windows.net
 orgs738812ea.z1.web.core.windows.net
@@ -4267,6 +4269,7 @@ space-15514dpae4351.profile-auth-c0.su
 invoices.su
 equ.su
 wag.cv
+pub-0f1472200ea740469ffa4557843d4430.r2.dev
 pub-17d3831db9f548f9aae97e6697e3caa0.r2.dev
 pub-ea69d787fac64d57b836c6e99b9cc9cb.r2.dev
 pub-e73e16cc0e174063b8aa3d7d11a78b9e.r2.dev
