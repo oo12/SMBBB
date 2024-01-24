@@ -1336,6 +1336,7 @@ allnaturaltribe.com
 1396113961.44.aklbe.com
 indd.adobe.com
 xd.adobe.com
+postoffice.adobe.com
 spark.adobe.com
 photobox-mkt-prod1-t.campaign.adobe.com
 express.adobe.com
@@ -2095,6 +2096,7 @@ peruestudio.com
 mdrncraftstudio.com
 cryingmonkeystudio.com
 brentcarpenter102742.myportfolio.com
+adminshsdoc-6fa0671e-7a13-4dfa-b671-83f9aaab4ad2.myportfolio.com
 securelinkkpqpropertymanagementllc.myportfolio.com
 adoberfp-doc.myportfolio.com
 febbidoutlineddoc.myportfolio.com
