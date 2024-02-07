@@ -461,6 +461,7 @@ intranet.unsm.edu.pe
 uniq.edu.pe
 mypetstore.fedelta.store
 jmqjbusfc9.murdense.store
+wtnrt.tugh.store
 gadget-heaven.store
 generatop.store
 mch0-zgy.store
@@ -475,6 +476,7 @@ sarahmurphy-artemidenorth-america.square.site
 microsoft-team-portal.square.site
 ping-microsoft-teams-oauth-business-media-room.square.site
 virtual-office-fax.square.site
+ztnwp.wdsg.site
 lencel.uphf.o2switch.site
 edulatam.site
 fern-motorcycle-947.notion.site
