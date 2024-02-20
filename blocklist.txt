@@ -650,6 +650,7 @@ wovis.org
 cdrssudans.org
 dhl4095itmch4.duckdns.org
 sosaojide.duckdns.org
+mobile-connect.duckdns.org
 furryfriendcreations.org
 auth.philpapers.org
 frigoglass.org
@@ -2322,6 +2323,7 @@ www.4019112526.eastputnambarber.com
 form.123formbuilder.com
 cdn4.iconfinder.com
 webqoder.com
+www.googletagmanager.com
 fyghushger.com
 mtiz.truesinger.com
 www.energybillcruncher.com
