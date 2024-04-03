@@ -1321,6 +1321,7 @@ objectstorage.ap-singapore-1.oraclecloud.com
 objectstorage.eu-stockholm-1.oraclecloud.com
 objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
+objectstorage.sa-saopaulo-1.oraclecloud.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
 cnwoeirhfnv-03w9h-gfv93whr-vg9w3reh-f93w4f.obs.af-south-1.myhuaweicloud.com
@@ -1642,6 +1643,7 @@ whitewingsbaking.com
 www.ramabreaking.com
 comnmon.chaffinchtracking.com
 servedby.flashtalking.com
+flights.booking.com
 sy.zvx6a.bongsking.com
 subscip.eagleeyedetailing.com
 pasargaddrilling.com
@@ -1845,6 +1847,7 @@ www.sunviewhospital.com
 almaseercarrental.com
 www.msoffice-portal.com
 www.acousticsremoval.com
+documentsoftapproval.com
 thebhalwal.com
 laurawaldvogel.com
 82717151gHnRxPvI.chrisfigiel.com
@@ -3491,6 +3494,7 @@ parliament-hotel.ro
 dogehvm.ro
 buildingstefan.ro
 mag-audio.ro
+maipo.ro
 wingrup.ro
 sferadecor.ro
 ro.nx3vm.uniquedresses.ro
