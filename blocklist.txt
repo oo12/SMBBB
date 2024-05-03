@@ -6,6 +6,7 @@ autodiscover.yrdsb.ca
 e.strategyonline.ca
 aicmarine.ca
 beautyppe.ca
+myalumni.mcgill.ca
 www.hamiltonchamber.ca
 leadigniter.ca
 a1truckrepair.ca
@@ -3668,6 +3669,7 @@ txq7h.csb.app
 ipehi.csb.app
 r8rq8s.csb.app
 0nsjz.csb.app
+wjlvsz.csb.app
 tome.app
 401k-org-en-us365-microsoft-teams.softr.app
 www.shubout.app
