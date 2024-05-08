@@ -468,6 +468,7 @@ jmqjbusfc9.murdense.store
 wtnrt.tugh.store
 gadget-heaven.store
 generatop.store
+nextr.store
 mch0-zgy.store
 shaveesy.store
 kjag.se
@@ -1258,6 +1259,7 @@ login-microsoftonline.rodlncoinc.com
 login.rodlncoinc.com
 uhrrinc.com
 jcsrinc.com
+brhardscapsinc.com
 247hotelshampton.lt.acemlnc.com
 app.pandadoc.com
 www.signin-horizondoc.com
