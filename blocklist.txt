@@ -469,6 +469,7 @@ intranet.unsm.edu.pe
 uniq.edu.pe
 mypetstore.fedelta.store
 jmqjbusfc9.murdense.store
+copbtech.store
 wtnrt.tugh.store
 gadget-heaven.store
 generatop.store
@@ -1775,6 +1776,7 @@ rememberingguruji.com
 someraki.com
 onedrive.makleryuki.com
 brightphotoboothbali.com
+marryatbali.com
 jandali.com
 www.systemidigitali.com
 keycloak.mydhli.com
@@ -3923,6 +3925,7 @@ bsbmakina.com.tr
 cdc.kjx.agsmakina.com.tr
 berdansanboya.com.tr
 onurdanismanlik.com.tr
+tekinkozmetik.com.tr
 f4j.uwzq.bowergsm.com.tr
 su4.wihr.bowergsm.com.tr
 oi8.bdgu.bowergsm.com.tr
