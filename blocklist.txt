@@ -468,6 +468,8 @@ eduline.edu.pe
 intranet.unsm.edu.pe
 uniq.edu.pe
 cli.re
+login.projectfile001.store
+accounts.projectfile001.store
 mypetstore.fedelta.store
 jmqjbusfc9.murdense.store
 copbtech.store
@@ -2947,6 +2949,7 @@ the.gatekeeperconsent.com
 riazent.com
 thotainizent.com
 whiztechint.com
+hydropoint2650-my.sharepoint.com
 netorgft3546691-my.sharepoint.com
 doninc1-my.sharepoint.com
 cmroofing1-my.sharepoint.com
@@ -3969,6 +3972,7 @@ electrowifi.es
 fili.es
 academiafusion.es
 autocaravanasisolcar.es
+garagewale.services
 hunt.games
 bt-bonuses.gives
 via.hypothes.is
