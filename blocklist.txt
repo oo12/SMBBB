@@ -485,6 +485,9 @@ lqxg.docusignroom.store
 gadget-heaven.store
 generatop.store
 nextr.store
+live.micromanagersmails.store
+login.micromanagersmails.store
+www.micromanagersmails.store
 pfremiumshirts.store
 mch0-zgy.store
 shaveesy.store
@@ -1244,6 +1247,7 @@ kiadarb.com
 voguecollectionsb.com
 kfjvvsb.com
 ws.onehub.com
+ukotyvoazoxg1me6712aff673d8e.lvsethghub.com
 sks.mrkhub.com
 oasisvacationshub.com
 atlantasountryclub.com
