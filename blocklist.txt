@@ -1305,6 +1305,7 @@ login-microsoftonline.rodlncoinc.com
 login.rodlncoinc.com
 uhrrinc.com
 jcsrinc.com
+www.phsinc.com
 brhardscapsinc.com
 247hotelshampton.lt.acemlnc.com
 bila.myvnc.com
@@ -1510,6 +1511,7 @@ feedproxy.google.com
 wgoogle.com
 swastikmobile.com
 betterbusinessbureau-share-file.com
+clouddocdrivefile.com
 wew.clouddocdrivefile.com
 mybusinessprosposalfile.com
 glowchile.com
@@ -1749,6 +1751,8 @@ caltonalt-azure365log.com
 www.outdoortoysgaloreblog.com
 fitnesstrainingblog.com
 www.inudyog.com
+office.vv2pg.com
+react.vv2pg.com
 cldrg.com
 strozfriiedberg.com
 mv-nrg.com
@@ -3714,6 +3718,7 @@ sendspace.top
 radiocidade.top
 sodusmi.top
 correigoi.top
+usps.potsvfeil.top
 www.pizzariaorigem.top
 claclom.top
 hd.10-admin.top
