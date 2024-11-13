@@ -755,6 +755,7 @@ agpnj.iresider2.click
 msgsrvrdataupd.click
 dreamfactapi.click
 vbbyr.gtysm.click
+url.avanan.click
 cntr.click
 appdatanettianport.click
 ortce.qonnxt.click
@@ -3393,6 +3394,7 @@ impactmarketingservice.in
 petrolpumpservice.in
 spicerecharge.in
 aasanise.in
+harekrishnaenterprise.in
 organichomeconducthhsj.in
 microsoftcheck.in
 www.thelipl.in
