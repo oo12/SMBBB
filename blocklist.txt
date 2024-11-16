@@ -719,6 +719,7 @@ e8ea4fb1-654d-4588-a96a-ebb3f4e6b27f-6ec32ddc.analytictheoritical.tech
 sharepoint.analytictheoritical.tech
 sso-godaddy.analytictheoritical.tech
 ipfs.tech
+login.365connects.tech
 likosa0q.beget.tech
 ststephenskisugu.church
 thinkblink.ph
@@ -1819,6 +1820,7 @@ mso.envizai.com
 www.asrejanebi.com
 albusalbi.com
 chappedbambi.com
+app.powerbi.com
 pop.alberto-manfredi.com
 4fd21d88-75f8-450c-8689-3da53508f399-d73c8942.albertofernandomanfredi.com
 pop.albertofernandomanfredi.com
