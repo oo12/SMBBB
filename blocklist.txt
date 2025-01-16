@@ -618,6 +618,7 @@ login.gigafinance.org
 psscience.org
 minealithevallee.org
 mountolivecollege.org
+kannadacatholicbible.org
 venalarticle.org
 www.harmonica-sharefile.org
 ns-home.org
@@ -1908,6 +1909,7 @@ dirttodank.com
 redirect.viglink.com
 r.sib.wedoolink.com
 totalitarlink.com
+edf.soundestlink.com
 us-marubeni.lt.emlnk.com
 emsplco.dgmonk.com
 temenbabi.seventinlagucok.com
@@ -4526,6 +4528,7 @@ webeoption.ru
 obtiron.ru
 q3eq2zzt5k645a78fe18ecc.autopn.ru
 saigonhomekitchenwvn.ru
+2qec.demosonelo.ru
 traverso.ru
 axuwjw756pb466im1sqs.7o7p.ru
 eu01-2.clodurdp.ru
@@ -4563,6 +4566,7 @@ equ.su
 wag.cv
 pub-0f1472200ea740469ffa4557843d4430.r2.dev
 pub-17d3831db9f548f9aae97e6697e3caa0.r2.dev
+pub-d140030cf41742a0819817717ecea2d0.r2.dev
 pub-de065a06b0954dd79c13035ae7896672.r2.dev
 pub-b166b66e134b4830a191bc14fef207c3.r2.dev
 pub-fefa1cd37d81457f9c68331f6cc8ead7.r2.dev
