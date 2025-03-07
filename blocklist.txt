@@ -3196,6 +3196,7 @@ www.bap-host.com
 groupkoreahost.com
 mitralhost.com
 monitorserverhost.com
+admin.terraboost.com
 app.adjust.com
 login.4331tt.com
 www.4331tt.com
@@ -3830,6 +3831,7 @@ aozo6-dyaaa-aaaad-qcaza-cai.ic0.app
 mi2fq-vyaaa-aaaad-qcs5q-cai.ic0.app
 qztfh-vqaaa-aaaad-qdk6q-cai.ic0.app
 32d4o-hyaaa-aaaad-qelwa-cai.raw.ic0.app
+analytics-redirector.ziffmedia.app
 skype-online04171.web.app
 newadobeproject1.web.app
 billionsways0192.web.app
@@ -3933,6 +3935,7 @@ acmelubricantes.com.ar
 zosqmtdnj.futbolazzurrotv.com.ar
 xz4458wqj.futbolazzurrotv.com.ar
 7wr27qbtj.futbolazzurrotv.com.ar
+marioalvarez.com.ar
 hrc.solar
 lionslc11.org.br
 bezerramenezes.org.br
@@ -4206,6 +4209,7 @@ bavzo.durrotuaswaja.net
 t.e2ma.net
 bam-cell.nr-data.net
 bam.nr-data.net
+zdbb.net
 zallinawde.gb.net
 lesemondwde.gb.net
 vfg4fg4fv4f4f.gb.net
@@ -4252,6 +4256,7 @@ u28653619.ct.sendgrid.net
 u33155159.ct.sendgrid.net
 u27156979.ct.sendgrid.net
 logos-world.net
+51ndgwvzjpdlzqx8.click.mailersend.net
 homegrownfood.net
 apiservices.krxd.net
 rodacaribe.net
@@ -4569,6 +4574,7 @@ eim.ae.webmail.u1360991.cp.regruhosting.ru
 od37uji2bs4o0t8g4tyh.nqzgt8h.ru
 sholtich.ru
 a0526528.xsph.ru
+2h.hecoesrh.ru
 onlineaccesspoint1.qeei.ru
 sbzafl671t0diho.cdlcmrhmgi.ru
 5c2x.warthydri.ru
