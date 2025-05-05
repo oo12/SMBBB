@@ -1615,6 +1615,7 @@ hst.heyzine.com
 www.rcanddrone.com
 calvarytombstone.com
 mild-lodestone.com
+csis.corsazone.com
 skyshopzone.com
 jreynolds.uxne.com
 coffeewithmattandjoe.com
@@ -3558,6 +3559,7 @@ harugomnhat.mizi.vn
 thepbinhduong.com.vn
 trungtamnhakhoahanoi.com.vn
 desmiit.vn
+phutam.edu.vn
 thithpt.edu.vn
 duhoc.eaut.edu.vn
 samapa.gob.bo
@@ -4008,6 +4010,7 @@ xquad.com.br
 undefined.com.br
 ladyelord.com.br
 grupohube.com.br
+zelitocontabilidade.com.br
 flexitrade.com.br
 karolthe.com.br
 cookie.com.br
@@ -4280,6 +4283,7 @@ u25369751.ct.sendgrid.net
 u45959961.ct.sendgrid.net
 u29135191.ct.sendgrid.net
 u29147291.ct.sendgrid.net
+u2405942.ct.sendgrid.net
 u29102462.ct.sendgrid.net
 u51614723.ct.sendgrid.net
 u32595833.ct.sendgrid.net
