@@ -3353,6 +3353,9 @@ oprqzx.com
 app.engagebay.com
 yusufday.com
 benahavisholiday.com
+ei.monday.com
+microfrontends.monday.com
+forms.monday.com
 user.verifyyourmailtoday.com
 www.sichontalay.com
 sumba-pay.com
@@ -4201,6 +4204,7 @@ hunt.games
 bt-bonuses.gives
 via.hypothes.is
 ois.is
+wkf.ms
 at.prod.jimdo.systems
 vacationdeals.bargains
 carlossantos.photos
@@ -4700,6 +4704,7 @@ pub-17d3831db9f548f9aae97e6697e3caa0.r2.dev
 pub-d140030cf41742a0819817717ecea2d0.r2.dev
 pub-de065a06b0954dd79c13035ae7896672.r2.dev
 pub-b166b66e134b4830a191bc14fef207c3.r2.dev
+pub-96550a0217514dbfac549f8585d6c5c4.r2.dev
 pub-fefa1cd37d81457f9c68331f6cc8ead7.r2.dev
 pub-4491803541fd42a0a6749368546a0a78.r2.dev
 pub-ea69d787fac64d57b836c6e99b9cc9cb.r2.dev
