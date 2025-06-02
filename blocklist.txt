@@ -2154,6 +2154,7 @@ kurmagrosiran.com
 zix-secured-docs.axletran.com
 ravezan.com
 ucarecdn.com
+public.powrcdn.com
 legalconnect.firstcdn.com
 filedn.com
 oo.vn0470syecevoicen.com
@@ -3725,6 +3726,7 @@ sos-de-fra-1.exo.io
 mellivora-28443.portmap.io
 app.eraser.io
 faxmessages.additor.io
+www.powr.io
 ipfs.io
 infura-ipfs.io
 fleek.ipfs.io
@@ -4231,9 +4233,11 @@ fili.es
 academiafusion.es
 fhz9eb.tjdneho.es
 autocaravanasisolcar.es
+6ju8.zijtrr.es
 vpmb.siferhs.es
 d3doh.wnfkhfv.es
 q88n6b.hukqpeny.es
+FuJrJ3815.hixtvgskmynz.es
 c2a.services
 garagewale.services
 hunt.games
