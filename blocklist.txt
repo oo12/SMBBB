@@ -1336,6 +1336,7 @@ static-assets.jimstatic.com
 fonts.jimstatic.com
 cedarcrestchiropractic.com
 averagegenetic.com
+t.emails.virginatlantic.com
 www.hd089089.ahramplastic.com
 wendyninkc.com
 led-ilc.com
@@ -1655,6 +1656,7 @@ mailnet2data.gpisoftware.com
 support.andarsoftware.com
 civilaire.com
 content.inspire.com
+uk-attire.com
 darkcitybmore.com
 uchemstore.com
 digitalcamerasstore.com
