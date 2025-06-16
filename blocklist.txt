@@ -656,6 +656,7 @@ jioul.org
 api.telegram.org
 donate3.popprogram.org
 www.krishnafarm.org
+l10n.org
 masjidalihsaan.org
 9KN0-EHWL0A-GSC2.socialman.org
 e-learning.iskandariah.perubatan.org
@@ -4756,6 +4757,7 @@ massb56464oy.ru
 space-15514dpae4351.profile-auth-c0.su
 fouc.treldemp.su
 invoices.su
+green.landmarkbuilders.su
 equ.su
 wag.cv
 pub-0f1472200ea740469ffa4557843d4430.r2.dev
