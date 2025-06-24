@@ -977,6 +977,7 @@ skanderbeu.cl
 mqavd.giacotex.cl
 virtualtechnology.cl
 playersan.grupoz.cl
+terns.travel
 fuztdfh.stripocdn.email
 viewstripo.email
 cdn.clipart.email
@@ -1518,6 +1519,7 @@ yotrade.com
 biggstrade.com
 pubsadelaide.com
 pxi.calebsride.com
+telemessage.astarontheotherside.com
 puyaguide.com
 sarkarinaukriguide.com
 app.destinfishinguide.com
@@ -2044,6 +2046,7 @@ muarspringseasonhotel.com
 a33.sunnyislandtravel.com
 therushteamfl.com
 inmediamail.com
+insidesales-email.com
 t.email.eaccountmanager1email.com
 13tvn.trk.elasticemail.com
 track.smtpsendemail.com
@@ -2974,6 +2977,7 @@ crmdevelopments.com
 keishaevents.com
 imagesandevents.com
 vz5jzlzi.r6tl1cut.bdjokerevents.com
+mariaruizevents.com
 www.pup-prints.com
 seafoxbaots.com
 calmseapilots.com
@@ -3314,6 +3318,7 @@ com12.sbpdev.com
 tony.blvrdev.com
 link.mail.beehiiv.com
 embeds.beehiiv.com
+assets.procurement.opengov.com
 idemxa.am.files.1drv.com
 silverbirdtv.com
 v8ktvjyt.nagoriktv.com
@@ -4518,6 +4523,7 @@ nane.blob.core.windows.net
 mkoe.blob.core.windows.net
 moretkentdrive.blob.core.windows.net
 hhsdjf.blob.core.windows.net
+cxppeur1rdrect01sa02cdn.blob.core.windows.net
 gvldap.blob.core.windows.net
 documentretailthemcgroup.blob.core.windows.net
 drivefaxforworkus.blob.core.windows.net
