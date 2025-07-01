@@ -1665,6 +1665,7 @@ mailnet2data.gpisoftware.com
 496054372mxemauoxl.latterrainsoftware.com
 support.andarsoftware.com
 civilaire.com
+api.kickfire.com
 content.inspire.com
 uk-attire.com
 darkcitybmore.com
@@ -4002,6 +4003,7 @@ r8rq8s.csb.app
 0nsjz.csb.app
 wjlvsz.csb.app
 tome.app
+solid-octo-lamp-one.vercel.app
 octopus-app-3icbf.ondigitalocean.app
 401k-org-en-us365-microsoft-teams.softr.app
 www.shubout.app
