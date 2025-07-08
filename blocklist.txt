@@ -2093,6 +2093,7 @@ tinyurl.com
 nagano-19599.herokussl.com
 fastsl.com
 cosmostradeintl.com
+toscanointl.com
 barangjadul.com
 podsnapfoul.com
 florafilesadmin.pagexl.com
@@ -2421,6 +2422,7 @@ gaandt.quip.com
 vfwv17.didtheyhelp.com
 wgp-llp.com
 wheelerllp.com
+regas.filecamp.com
 www.qrcodechimp.com
 forchettacafe.altawakalcomp.com
 hudanp.com
@@ -3704,6 +3706,7 @@ zonefire.info
 senorpresidente.info
 uspsb-address-verification.safesolve.info
 files-managing.info
+regas.cimarch.info
 e4fml.info
 ni.championroom.info
 milnet-archservice.timelesshomeandgarden.info
@@ -4275,6 +4278,7 @@ tp0vn.umhyg.es
 electrowifi.es
 fili.es
 txj2mouhfgckesdyhwcblpil14myvuiqwqqlqi5ivv802fsioppmmot.cppppesmelxi.es
+c91t.keshuxi.es
 637mcjmnx5jlryygikfxemhjiy2o0oz4i7p1frbbrlgo0af0fond3cfl.yigbnj.es
 academiafusion.es
 fhz9eb.tjdneho.es
@@ -4663,6 +4667,7 @@ d.pot.hillsbiz.com.au
 style.csiro.au
 events.csiro.au
 dentistnearme.net.au
+www.google.com.cu
 ach-23.icu
 fusionreinsurance.icu
 mircosoftonline.icu
@@ -4819,6 +4824,7 @@ pub-fefa1cd37d81457f9c68331f6cc8ead7.r2.dev
 pub-4491803541fd42a0a6749368546a0a78.r2.dev
 pub-ea69d787fac64d57b836c6e99b9cc9cb.r2.dev
 pub-c46eb868bd494afe958fdeac7ae87e1c.r2.dev
+pub-6ce08ef3a0e94db7852cb064201884cc.r2.dev
 pub-3df4bfed09b14035b5765734e1f2166d.r2.dev
 pub-e73e16cc0e174063b8aa3d7d11a78b9e.r2.dev
 pub-4a16c9dfd74f4b76afe3c480b0d4102f.r2.dev
