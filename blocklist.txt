@@ -676,6 +676,7 @@ l10n.org
 masjidalihsaan.org
 9KN0-EHWL0A-GSC2.socialman.org
 e-learning.iskandariah.perubatan.org
+www.microsoftsign.org
 theedmundcharitytrain.org
 gallin.org
 sslcnd.aioecoin.org
@@ -724,6 +725,7 @@ dhl4095itmch4.duckdns.org
 sosaojide.duckdns.org
 mobile-connect.duckdns.org
 furryfriendcreations.org
+www.microsoftapps.org
 auth.philpapers.org
 frigoglass.org
 mail.mowigglebutts.org
@@ -3804,6 +3806,7 @@ website139917paymentadvice.nicepage.io
 samepage.io
 app.frame.io
 assets.frame.io
+next.frame.io
 tbuban.systeme.io
 lmo.vvestbase.io
 members.smoove.io
@@ -4927,8 +4930,10 @@ pub-e73e16cc0e174063b8aa3d7d11a78b9e.r2.dev
 pub-4a16c9dfd74f4b76afe3c480b0d4102f.r2.dev
 c3s4.c17.e2-5.dev
 samallen.dev
+uksl5310rli5738alt51638jst481dpl319ik9d17tsfc.pages.dev
 new-call-voicemail-message.pages.dev
 ml412758d79256126a78df79ce0a18qk.pages.dev
+bids8g011s95xdc475sk69dlb309tpl69sal.pages.dev
 emailfrontier.pages.dev
 laboratoryequipment.pages.dev
 us-office-mailboox.pages.dev
