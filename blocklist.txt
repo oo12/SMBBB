@@ -970,6 +970,7 @@ cd5ivers.uk
 seed.industrialequipments.uk
 office.vivx.uk
 frame.vivx.uk
+default.nexusspghere.digital
 www3inv02922.capital
 dosinformatica.cl
 gCGGz.2mJhIjZ.jplarrainycia.cl
@@ -1268,6 +1269,7 @@ mailffacx.kartra.com
 magnitudeorchestra.com
 t5r8p9.sa.com
 coroa.sa.com
+atom.thoumoupa.sa.com
 arrimara.sa.com
 wii.drynzora.sa.com
 6axta.sa.com
@@ -1282,6 +1284,7 @@ xo6d.rifriochoo.sa.com
 universetrader.sa.com
 inflationreports.sa.com
 sfxsys.sa.com
+bpmkx62l.mihu.sa.com
 EzgAz.T81i8o.hidebux.sa.com
 akayux.sa.com
 medlinesupply.sa.com
@@ -2683,11 +2686,13 @@ www.asansair.com
 t.afftrackr.com
 track.affclkr.com
 hamdecor.com
+www.paycor.com
 mdwrfp2021.webador.com
 silent-shape-03c9filessharbyme.webador.com
 onedrive-preview-office365-outlook.webador.com
 jeffamador.com
 mailmeteor.com
+emasenior.com
 nailsavior.com
 bryannaandconor.com
 qsmtm5u64ceknuczpb0n.bridgetbartonforgovernor.com
@@ -4105,6 +4110,7 @@ tome.app
 solid-octo-lamp-one.vercel.app
 octopus-app-3icbf.ondigitalocean.app
 401k-org-en-us365-microsoft-teams.softr.app
+ipwhois.app
 www.shubout.app
 keen-golick-cd69b0.netlify.app
 rococo-gnome-15e323.netlify.app
@@ -4130,6 +4136,7 @@ caroquiroga.com.ar
 sociosmutualdepresidencia.com.ar
 ultrafarma.com.ar
 www.bemardistribuidora.com.ar
+www.google.com.ar
 interiormente.com.ar
 wkuvkn.islacyborg.com.ar
 bureauinternacional.com.ar
@@ -4224,6 +4231,7 @@ bahremeldorado.com.br
 financeiro.dfolio.com.br
 www.revistafreteurbano.com.br
 marcazero.com.br
+showtintasro.com.br
 ciockolato.com.br
 clubedomovimento.com.br
 koncepto.com.br
