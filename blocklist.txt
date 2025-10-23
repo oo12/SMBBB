@@ -2255,6 +2255,7 @@ app.raven.com
 www.vsznxfkna-ksocik.hannagn.com
 ingram.mykampaign.com
 gossipwebdesign.com
+lloydminsterwebdesign.com
 acaedesign.com
 pinkdoordesign.com
 officeconceptdesign.com
@@ -3074,6 +3075,7 @@ allbeetroots.com
 bloomkarts.com
 rubiconrealty.webstarts.com
 www.donationalerts.com
+7f365a6f-2f8b-406a-b960-182bcf07f6d4.liftxperts.com
 www.listreports.com
 fitizmsports.com
 southmotorsports.com
@@ -4983,6 +4985,7 @@ office365live2.jlow8141.workers.dev
 summer-dawn-11e2.corychase092.workers.dev
 old-band-2d1c.corychase092.workers.dev
 young-fire-1db8.vgvtvj8t2.workers.dev
+configura.d874c7c1f8062afc4f2fd153.workers.dev
 yigbkj.fy84i2eg6m7004.workers.dev
 9c6c68b0.a1c1a68828cf7d1cfaa67865.workers.dev
 super-mode-f061.a1c1a68828cf7d1cfaa67865.workers.dev
