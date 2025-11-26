@@ -176,6 +176,7 @@ www.slvrstan.my.id
 kyrgyzstan.kepio.my.id
 www.madonnamiller.my.id
 law.jaknet.my.id
+silverstripe.vizeabo.biz.id
 thetoptips4you.world
 formare.usarb.md
 bomba-service.md
@@ -2482,6 +2483,7 @@ api.statvoo.com
 api-images.statvoo.com
 data.travelzoo.com
 contmpo.com
+ddec1-0-en-ctp.trendmicro.com
 7njanuary5.dunozmicro.com
 pentaedro.com
 remoteaccess.fabtekaero.com
@@ -4542,6 +4544,7 @@ michalitz.at
 morethan.chat
 fub.direct
 giveback.market
+remittances.hr21.net
 recp.mkt91.net
 a.rs6.net
 fuyru9hbb.cc.rs6.net
@@ -5346,6 +5349,7 @@ berneicsquare.buzz
 tyaue.buzz
 southardok.buzz
 crmnewsisraeel.buzz
+armenia.nusteapo.buzz
 vacherielaq.buzz
 schlaterms.buzz
 tarrsons.buzz
