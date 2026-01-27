@@ -2855,6 +2855,7 @@ findics.com
 8bd6009f3e5b49c98b78a583c98666c9.svc.dynamics.com
 017f6e5bf7044cbd9fba426a37d6d13c.svc.dynamics.com
 523f682f4f1240499f4ba52935dd575d.svc.dynamics.com
+public-usa.mkt.dynamics.com
 public-eur.mkt.dynamics.com
 assets-eur.mkt.dynamics.com
 rydox.areteelectronics.com
@@ -3430,6 +3431,7 @@ farmer8front.com
 passportbuckshot.com
 thenewshot.com
 link.edgepilot.com
+email.double.serviceautopilot.com
 link.trustpilot.com
 kirkbyanddiamondcrm.agencypilot.com
 odehgroup-dot-one-dr-ve-o365.appspot.com
@@ -4691,6 +4693,7 @@ cevital3.ayrade.net
 www.healthy-meee.net
 supplierportal002.azureedge.net
 cxppusa1formui01cdnsa01-endpoint.azureedge.net
+cxppusa1rdrect01sa02cdn-endpoint.azureedge.net
 unilever-t.neolane.net
 url2.mailanyone.net
 ppointshare.net
