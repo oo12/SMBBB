@@ -1579,6 +1579,7 @@ oskarandjulia-1316850103.cos.na-toronto.myqcloud.com
 rubertdeventos-1316850103.cos.na-toronto.myqcloud.com
 preventingcrime-1317634057.cos.na-toronto.myqcloud.com
 hooray2u-1317634057.cos.na-toronto.myqcloud.com
+dfvghtyu6tyhgrswg-1388504898.cos.ap-tokyo.myqcloud.com
 fridakahlofans-1317634057.cos.eu-frankfurt.myqcloud.com
 fdgthyjui8u7yht-1368311421.cos.na-siliconvalley.myqcloud.com
 na.eventscloud.com
@@ -1595,6 +1596,8 @@ spark.adobe.com
 photobox-mkt-prod1-t.campaign.adobe.com
 express.adobe.com
 meteredspace.com
+fs12n3.sendspace.com
+www.sendspace.com
 rfp22.squarespace.com
 wrasse-beige-z688.squarespace.com
 opossum-semicircle-n5nk.squarespace.com
@@ -3150,6 +3153,8 @@ acessloginon.esets-express.com
 securityairexpress.com
 fashionpartyhostess.com
 uqfiqbanohsnxdx.compuinvestorss.com
+losht.markproductss.com
+tmoralescompany.markproductss.com
 www.3323166773.rosebayboats.com
 www.2276157379.rosebayboats.com
 covidcoats.com
@@ -3494,6 +3499,7 @@ www.bap-host.com
 groupkoreahost.com
 mitralhost.com
 monitorserverhost.com
+static.adsupplyadshost.com
 admin.terraboost.com
 t.nypost.com
 app.adjust.com
