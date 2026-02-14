@@ -523,6 +523,7 @@ indicons.pe
 eduline.edu.pe
 intranet.unsm.edu.pe
 uniq.edu.pe
+www.download.tecperu.pe
 cli.re
 login.projectfile001.store
 accounts.projectfile001.store
@@ -2830,6 +2831,7 @@ sunyl-motor.com
 www.bonrepetiteur.com
 ayllur.com
 z3p7rkxv.dgsisgnn.kabartimur.com
+www.nelsonbchometour.com
 t0rafwwj.w.bluesandpinkstour.com
 b1mmqk1m.w.bluesandpinkstour.com
 kzcmv4po.w.bluesandpinkstour.com
