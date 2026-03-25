@@ -131,6 +131,7 @@ myr.li7-bb5.cfd
 detect-server.ballerina.cfd
 jvidv.nbufhdge.cfd
 direct-connect.curetech.cfd
+ketal.cfd
 crmnewsisraeel.cfd
 charwill.cfd
 is.gd
@@ -431,6 +432,7 @@ ht6v662t.r.us-east-1.awstrack.me
 pcgn1tlx.r.us-east-1.awstrack.me
 js0snkd6.r.ap-southeast-1.awstrack.me
 fpqcbkfg.r.us-east-2.awstrack.me
+5sgt5y0v.r.eu-west-2.awstrack.me
 tarawih.onelink.me
 opodo.onelink.me
 go.onelink.me
@@ -4884,6 +4886,7 @@ static.ucraft.net
 irsbusinessaudit.net
 d1icd6shlvmxi6.cloudfront.net
 d3fw5vlhllyvee.cloudfront.net
+d3vuz9a92pldmf.cloudfront.net
 jinshuju.net
 tartatiosbsaversv.net
 aghslaw.net
