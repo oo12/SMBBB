@@ -3287,6 +3287,7 @@ myawssssw.s3.us-east-2.amazonaws.com
 s3.ap-southeast-2.amazonaws.com
 tevd7hoeiejhejdjueyy783ybhdyhd6767hdh78ujff90fjynefg8e89efe8feh.s3.ap-southeast-2.amazonaws.com
 quebooksuploads.s3-website-us-west-2.amazonaws.com
+8yuhacbyj5.execute-api.us-west-2.amazonaws.com
 logenmisofiu97y2e3r28.s3.eu-west-2.amazonaws.com
 bbuseruploads.s3.amazonaws.com
 pro-bee-beepro-messages.s3.amazonaws.com
