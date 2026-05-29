@@ -198,6 +198,7 @@ s.lunaweb.cloud
 sentry.taskade.cloud
 app.axure.cloud
 duzmw.vintofdi.cloud
+st99nkh8m9.app.n8n.cloud
 118m111c1120.mplan.cloud
 jwtbuk446.s3.ams03.cloud-object-storage.appdomain.cloud
 signbuk207.s3.jp-osa.cloud-object-storage.appdomain.cloud
@@ -3323,6 +3324,7 @@ portal.criticalimpact.com
 aidcompact.com
 getcontact.com
 files.constantcontact.com
+inhomemedicalgroup.screenconnect.com
 houseloan.estatusconnect.com
 gatormadedirect.com
 webhosting.icicidirect.com
