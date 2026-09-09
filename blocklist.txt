@@ -555,6 +555,7 @@ live.micromanagersmails.store
 login.micromanagersmails.store
 www.micromanagersmails.store
 pfremiumshirts.store
+office.transferit.store
 mch0-zgy.store
 shaveesy.store
 kjag.se
@@ -4044,6 +4045,7 @@ nationpro.greatopportunity.info
 ezonesecurity.info
 proud-water.balmainrealty.info
 sa1.io
+url9849.charma.io
 217662.8b.io
 r.8b.io
 cisabell1.github.io
