@@ -83,6 +83,7 @@ mikebuyskescon.co.za
 nlwl.mikebuyskescon.co.za
 strt.mikebuyskescon.co.za
 whatsthefunction.co.za
+kidron.co.za
 transformationcorp.co.za
 bloomingdaisies.co.za
 starcastles.co.za
@@ -2598,6 +2599,7 @@ api-images.statvoo.com
 data.travelzoo.com
 contmpo.com
 ddec1-0-en-ctp.trendmicro.com
+cas5-0-urlprotect.trendmicro.com
 7njanuary5.dunozmicro.com
 pentaedro.com
 remoteaccess.fabtekaero.com
@@ -4409,6 +4411,7 @@ www.notamega.com.br
 noramidermatologia.com.br
 igrejademaria.com.br
 rrssserralheria.com.br
+produtoconsultoria.com.br
 singulusconsultoria.com.br
 cabanhabutia.com.br
 ricardoizola.com.br
@@ -4769,6 +4772,7 @@ u32595833.ct.sendgrid.net
 u27398053.ct.sendgrid.net
 u16218883.ct.sendgrid.net
 u451354.ct.sendgrid.net
+u44989754.ct.sendgrid.net
 u22356194.ct.sendgrid.net
 u25154415.ct.sendgrid.net
 u28915455.ct.sendgrid.net
