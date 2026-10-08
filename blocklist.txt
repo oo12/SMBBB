@@ -498,6 +498,7 @@ user.office365verification.online
 server.systemcommunication.online
 www.catalystactivation.online
 coolaircondition.online
+securefiles.21stdemo.online
 paidpccclllc19.nodeboostrap.online
 server.livevoip.online
 cypherloop.online
@@ -564,6 +565,7 @@ kjag.se
 www.mentoregetforetag.se
 hf83rb7.date
 tangismedia.site
+infozone.site
 document-563677.square.site
 microsoft-team-1089.square.site
 sarahmurphy-artemidenorth-america.square.site
@@ -1472,6 +1474,7 @@ john-s-school-b92e.thinkific.com
 8794-s-school.thinkific.com
 tr.cloudmagic.com
 track.techrepublic.com
+writer.zohopublic.com
 tecnicopanasonic.com
 5Bz6cmdMXb6J.ozbeyelectric.com
 dq6V7LlXcUBx.ozbeyelectric.com
@@ -2658,6 +2661,7 @@ ds-pcshop.com
 trendseekersshop.com
 outlokloginmiciroso-componentftonl-inecom.bumsidebodyshop.com
 awesomescoop.com
+zwriter.nimbuspop.com
 55cf367.grapedrop.com
 gnr-app.com
 lpm3opf4.firebaseapp.com
