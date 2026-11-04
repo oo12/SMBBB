@@ -869,6 +869,7 @@ tracking.specto.si
 agpnj.iresider2.click
 emailway.brandalpha.click
 msgsrvrdataupd.click
+login.mcsoftlognbouillonline.click
 seravoe.click
 dreamfactapi.click
 vbbyr.gtysm.click
@@ -1071,6 +1072,7 @@ j.qxeh.limpiamas.cl
 agroecosistemas.cl
 kqz.llhv.pesandes.cl
 addcomunicaciones.cl
+trikingos.cl
 chileconcursos.cl
 www.abus.cl
 estudioit.cl
@@ -5121,6 +5123,7 @@ s7i4m.mjt.lu
 10zjo.mjt.lu
 12t3s.mjt.lu
 sv7os.mjt.lu
+1ztvt.mjt.lu
 1xpvv.mjt.lu
 syh2y.mjt.lu
 mathisprost.lu
